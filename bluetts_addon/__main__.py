@@ -697,7 +697,8 @@ def _self_test() -> int:
         'sha256': hashlib.sha256(b'').hexdigest()[:8],
         'ca_bundle': os.environ.get('SSL_CERT_FILE', ''),
     }
-    print(json.dumps(report, ensure_ascii=False), file=sys.__stdout__, flush=True)
+    # ASCII: a Windows console is cp1252, and the report holds IPA.
+    print(json.dumps(report), file=sys.__stdout__, flush=True)
     return 0 if ok else 1
 
 
@@ -734,6 +735,12 @@ def main() -> int:
     if '--version' in sys.argv[1:]:
         print(f'bluetts-addon {ADDON_VERSION}')
         return 0
+    # Upstream prints warnings that quote the line (Hebrew, Yiddish, Cyrillic); a
+    # Windows stderr is cp1252 and would raise in the middle of a synthesis.
+    try:
+        sys.stderr.reconfigure(encoding='utf-8', errors='replace')
+    except (AttributeError, ValueError):
+        pass
     logging.basicConfig(
         level=(_env('BLUETTS_ADDON_LOG_LEVEL') or 'INFO').upper(),
         format='%(asctime)s %(levelname)s %(name)s: %(message)s',
