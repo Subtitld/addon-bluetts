@@ -1,0 +1,22 @@
+# Exact versions the release is built and tested with.
+#
+# numpy: its Linux wheel carries libquadmath (LGPL-2.1, with OpenBLAS's
+# Fortran runtime). tools/build_libquadmath_source.py knows this wheel's build
+# and attaches its source to the release; a numpy upgrade that changes it
+# must update BUILDS there.
+#
+# onnxruntime: 1.29, the newest the Yiddish front end reads identically on.
+onnxruntime==1.29.0
+numpy==2.5.4
+flatbuffers==25.12.19
+protobuf==7.36.2
+packaging==26.3
+polyg2p==0.1.0
+renikud-plus==0.5.0
+hebrew-num2words==0.1.0
+num2words==0.5.14
+docopt==0.6.2
+# renikud-plus's download helper, which the add-on never calls (it downloads
+# its own files); installed with it, left out of the frozen bundle.
+huggingface-hub==2.4.0
+hf-xet==1.8.0

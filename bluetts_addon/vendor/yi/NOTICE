@@ -1,0 +1,10 @@
+Yiddish front end of BlueV3 v3.0.0 (the Phonikud-yi G2P, github.com/maxmelichov/Phonikud-yi), read by blue_onnx
+from this folder: yiddish_labels.text_to_ipa. Needs onnxruntime 1.27-1.29 for identical output.
+
+yiddish_g2p.py, yiddish_labels.py, yiddish_renikud.py, yi_align.py, data/lexicons/*.py (except below),
+onnx_renikud_yi/ (ReNikud-yi context model)
+    Phonikud-yi / BlueTTS. MIT License.
+
+data/lexicons/sefaria_pointed_lk.py, data/lexicons/homograph_lk.py
+    Readings derived from pointed editions published on Sefaria: "Miqra according to the Masorah"
+    (CC BY-SA 4.0) and "Torat Emet 357" (Public Domain). These files are distributed under CC BY-SA 4.0.

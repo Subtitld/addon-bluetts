@@ -1,0 +1,234 @@
+{
+  "manifest_version": 1,
+  "id": "bluetts",
+  "version": "26.11.1",
+  "display_name": "BlueTTS (offline, voice clone, Hebrew + 6 languages)",
+  "summary": "BlueV3 by Maxim Melichov: speaks Hebrew, English, German, Spanish, Italian, Russian and Yiddish at 44.1 kHz, in 15 stock voices or in the speaker's own voice, cloned from about 10 seconds of the video. Runs on the CPU, about 3 to 5 times faster than real time. The 428 MB model downloads on the first line; Hebrew needs 1,231 MB more (or 312 MB compact), Yiddish 307 MB, cloning 136 MB.",
+  "author": "Subtitld",
+  "homepage": "https://github.com/Subtitld/addon-bluetts",
+  "license": "Apache-2.0 (add-on); MIT (BlueTTS code and graphs); BigScience OpenRAIL-M (vocoder weights, use restrictions apply); CC-BY-4.0 (stock voices, LibriTTS-R); Apache-2.0 (RenikudPlus, polyg2p); CC BY-SA (German, Italian and some Yiddish G2P lexicons)",
+  "executable": "bin/bluetts-addon",
+  "protocol": 1,
+  "startup_timeout_sec": 30,
+  "platforms": [
+    "linux",
+    "macos",
+    "windows"
+  ],
+  "tasks": [
+    "tts.synthesize"
+  ],
+  "compute": "cpu",
+  "voice_clone": true,
+  "languages": [
+    "he",
+    "en",
+    "de",
+    "es",
+    "it",
+    "ru",
+    "yi"
+  ],
+  "voices": [
+    {
+      "id": "bluetts-clone",
+      "language": "*",
+      "display_name": "Speaker's own voice (cloned from the video)",
+      "sample_rate": 44100,
+      "requires": [
+        "voice_ref_audio"
+      ]
+    },
+    {
+      "id": "bluetts-noa",
+      "language": "*",
+      "display_name": "Noa (woman)",
+      "sample_rate": 44100
+    },
+    {
+      "id": "bluetts-maya",
+      "language": "*",
+      "display_name": "Maya (woman)",
+      "sample_rate": 44100
+    },
+    {
+      "id": "bluetts-lily",
+      "language": "*",
+      "display_name": "Lily (woman)",
+      "sample_rate": 44100
+    },
+    {
+      "id": "bluetts-tamar",
+      "language": "*",
+      "display_name": "Tamar (woman)",
+      "sample_rate": 44100
+    },
+    {
+      "id": "bluetts-shira",
+      "language": "*",
+      "display_name": "Shira (woman)",
+      "sample_rate": 44100
+    },
+    {
+      "id": "bluetts-yael",
+      "language": "*",
+      "display_name": "Yael (woman)",
+      "sample_rate": 44100
+    },
+    {
+      "id": "bluetts-emma",
+      "language": "*",
+      "display_name": "Emma (woman)",
+      "sample_rate": 44100
+    },
+    {
+      "id": "bluetts-sara",
+      "language": "*",
+      "display_name": "Sara (woman)",
+      "sample_rate": 44100
+    },
+    {
+      "id": "bluetts-adam",
+      "language": "*",
+      "display_name": "Adam (man)",
+      "sample_rate": 44100
+    },
+    {
+      "id": "bluetts-daniel",
+      "language": "*",
+      "display_name": "Daniel (man)",
+      "sample_rate": 44100
+    },
+    {
+      "id": "bluetts-david",
+      "language": "*",
+      "display_name": "David (man)",
+      "sample_rate": 44100
+    },
+    {
+      "id": "bluetts-jonathan",
+      "language": "*",
+      "display_name": "Jonathan (man)",
+      "sample_rate": 44100
+    },
+    {
+      "id": "bluetts-ethan",
+      "language": "*",
+      "display_name": "Ethan (man)",
+      "sample_rate": 44100
+    },
+    {
+      "id": "bluetts-michael",
+      "language": "*",
+      "display_name": "Michael (man)",
+      "sample_rate": 44100
+    },
+    {
+      "id": "bluetts-ariel",
+      "language": "*",
+      "display_name": "Ariel (man)",
+      "sample_rate": 44100
+    }
+  ],
+  "models": [
+    {
+      "id": "bluev3",
+      "display_name": "BlueV3 v3.0.1 (ONNX) with the G2P data of en/de/es/it/ru",
+      "repo": "notmax123/BlueV3-onnx",
+      "revision": "39c4843019442bbf67e3980242549504b8583f2c",
+      "size_mb": 428,
+      "license": "MIT; vocoder BigScience OpenRAIL-M",
+      "bundled": false,
+      "default": true
+    },
+    {
+      "id": "bluev3-reference-encoder",
+      "display_name": "BlueV3 reference encoder (voice cloning)",
+      "repo": "notmax123/BlueV3-onnx",
+      "revision": "39c4843019442bbf67e3980242549504b8583f2c",
+      "size_mb": 136,
+      "license": "MIT",
+      "bundled": false,
+      "default": false
+    },
+    {
+      "id": "renikudplus",
+      "display_name": "RenikudPlus Hebrew G2P",
+      "repo": "notmax123/BlueV3-onnx",
+      "revision": "39c4843019442bbf67e3980242549504b8583f2c",
+      "size_mb": 1231,
+      "license": "Apache-2.0",
+      "bundled": false,
+      "default": false
+    },
+    {
+      "id": "renikudplus-int8",
+      "display_name": "RenikudPlus Hebrew G2P, compact (int8)",
+      "repo": "notmax123/RenikudPlus",
+      "revision": "679c56ca449d41873fb8ff7711ddf7563d28198f",
+      "size_mb": 312,
+      "license": "Apache-2.0",
+      "bundled": false,
+      "default": false
+    },
+    {
+      "id": "renikud-yi",
+      "display_name": "ReNikud-yi Yiddish context model",
+      "repo": "notmax123/BlueV3-onnx",
+      "revision": "39c4843019442bbf67e3980242549504b8583f2c",
+      "size_mb": 307,
+      "license": "MIT",
+      "bundled": false,
+      "default": false
+    }
+  ],
+  "disk_required_mb": 2200,
+  "ram_required_mb": 2560,
+  "config_schema": {
+    "fields": [
+      {
+        "key": "threads",
+        "type": "int",
+        "label": "CPU threads",
+        "default": 0,
+        "min": 0,
+        "max": 64,
+        "step": 1,
+        "help": "0 uses the number of logical processors, at most 8. More is rarely faster."
+      },
+      {
+        "key": "steps",
+        "type": "int",
+        "label": "Quality steps",
+        "default": 8,
+        "min": 2,
+        "max": 32,
+        "step": 1,
+        "help": "Flow steps per line. 8 is BlueTTS's own setting; 4 is about 1.7 times as fast with slightly lower quality."
+      },
+      {
+        "key": "hebrew_g2p",
+        "type": "select",
+        "label": "Hebrew reading model",
+        "default": "accurate",
+        "options": [
+          {
+            "value": "accurate",
+            "label": "Accurate (1,231 MB, about 2 GB of memory)"
+          },
+          {
+            "value": "compact",
+            "label": "Compact (312 MB, a few more misread words)"
+          }
+        ],
+        "help": "How Hebrew text is turned into sounds. The compact model reads about 1 word in 200 differently, more often wrongly."
+      },
+      {
+        "key": "voice_ref_audio",
+        "type": "file",
+        "label": "Fallback reference clip",
+        "help": "Cloned by the speaker's own voice when Subtitld has no clip of the speaker to send: about 10 seconds of one person speaking, clean and not a phone recording."
+      }
+    ]
+  }
+}

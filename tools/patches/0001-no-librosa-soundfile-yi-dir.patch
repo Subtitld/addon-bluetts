@@ -1,0 +1,82 @@
+diff --git a/blue_onnx/__init__.py b/blue_onnx/__init__.py
+index 3e45cec..a056ff9 100644
+--- a/blue_onnx/__init__.py
++++ b/blue_onnx/__init__.py
+@@ -204,7 +204,8 @@ class TextProcessor:
+                 raise ValueError("lang='yi' needs the bundle's frontend/yi folder")
+             content = "".join(c for c in content if unicodedata.category(c) != "Cf")   # invisible format marks
+             if self._yi is None:
+-                d = os.path.join(self.frontend_dir, "yi")
++                # Subtitld add-on: the Yiddish front end's code ships inside the add-on, not in the bundle
++                d = os.environ.get("BLUE_YI_FRONTEND") or os.path.join(self.frontend_dir, "yi")
+                 if d not in sys.path:
+                     sys.path.append(d)
+                 from yiddish_labels import text_to_ipa   # checks its tables at import
+diff --git a/blue_onnx/style.py b/blue_onnx/style.py
+index 325aae6..39bcdd1 100644
+--- a/blue_onnx/style.py
++++ b/blue_onnx/style.py
+@@ -6,10 +6,11 @@ import math
+ import os
+ from typing import Any
+ 
+-import librosa
+ import numpy as np
+ import onnxruntime as ort
+-import soundfile as sf
++
++# Subtitld add-on: librosa and soundfile are imported where they are used, by the
++# blue-onnx-v2 paths and file reading only; a BlueV3 clone from samples needs neither.
+ 
+ from . import Style, parse_speed_scale
+ 
+@@ -66,6 +67,8 @@ def _load_config(config: str | dict[str, Any]) -> dict[str, Any]:
+ 
+ 
+ def _read_wav_mono(path: str, sample_rate: int, res_type: str = "kaiser_best") -> np.ndarray:
++    import librosa
++    import soundfile as sf
+     wav, sr = sf.read(path, always_2d=True, dtype="float32")
+     wav = wav.mean(axis=1)
+     if int(sr) != int(sample_rate):
+@@ -102,6 +105,7 @@ def _resample_training(wav: np.ndarray, orig_sr: int, new_sr: int, lowpass_filte
+ 
+ 
+ def _linear_mel_features(wav: np.ndarray, *, sample_rate: int, n_fft: int, win_length: int, hop_length: int, n_mels: int) -> np.ndarray:
++    import librosa
+     spec = np.abs(
+         librosa.stft(
+             wav,
+@@ -226,11 +230,20 @@ def _release_style_from_wav(ref_wav: str, onnx_dir: str, providers: list[str] |
+     The clip is right-padded to a multiple of ``pad_to_multiple`` samples, as the bundle's ``tts.json`` states."""
+     with open(os.path.join(onnx_dir, "tts.json"), "r", encoding="utf-8") as f:
+         rel = json.load(f).get("blue_release") or {}
++    import soundfile as sf
++    wav, src_sr = sf.read(ref_wav, always_2d=True, dtype="float32")
++    return release_style_from_samples(wav.mean(axis=1), int(src_sr), rel, onnx_dir, providers)
++
++
++def release_style_from_samples(wav: np.ndarray, src_sr: int, rel: dict, onnx_dir: str,
++                               providers: list[str] | None = None, session=None) -> Style:
++    """Subtitld add-on: the body of ``_release_style_from_wav`` on mono float32 samples already read, so the
++    add-on can read the clip itself (the standard library's wave module, or ffmpeg) without soundfile.
++    ``session`` reuses an open ``reference_encoder.onnx`` session."""
+     ref = rel.get("reference") or {}
+     sr = int(ref.get("sample_rate", 44100))
+     k = int(ref.get("pad_to_multiple", 3072))
+-    wav, src_sr = sf.read(ref_wav, always_2d=True, dtype="float32")
+-    wav = wav.mean(axis=1)
++    wav = np.asarray(wav, dtype=np.float32)
+     if int(src_sr) != sr:
+         # An upsampled clip has an empty band above its own Nyquist, and the encoder reads log-spectra: what it
+         # sees there is the resampler's rounding residue, so the style tokens used to change with the resampler
+@@ -241,7 +254,8 @@ def _release_style_from_wav(ref_wav: str, onnx_dir: str, providers: list[str] |
+     if len(wav) < sr:
+         raise ValueError(f"reference clip is {len(wav) / sr:.2f} s: use at least 1 s of speech (8-10 s works best)")
+     wav = np.pad(wav, (0, (-len(wav)) % k))[None].astype(np.float32)
+-    style_ttl, style_dp = _session(os.path.join(onnx_dir, "reference_encoder.onnx"), providers).run(None, {"wav": wav})
++    session = session or _session(os.path.join(onnx_dir, "reference_encoder.onnx"), providers)
++    style_ttl, style_dp = session.run(None, {"wav": wav})
+     if not (np.isfinite(style_ttl).all() and np.isfinite(style_dp).all()):
+         raise RuntimeError("non-finite style tokens from the reference clip")
+     return Style(style_ttl.astype(np.float32), style_dp.astype(np.float32), model=rel.get("model"))

@@ -1,0 +1,26 @@
+Third-party Rust crates in polyg2p
+==================================
+
+polyg2p's Python extension (polyg2p/_polyg2p.*) in this add-on is built from
+https://github.com/maxmelichov/polyg2p at @COMMIT@ (bindings/python): the
+BlueV3 release bundle's own wheels on Linux and macOS, a build of the same
+commit on Windows. It links the crates below statically. Each crate's source,
+at the version named, is on https://crates.io/crates/<name>/<version>.
+
+Overview
+--------
+{{#each overview}}
+{{{name}}} ({{count}} crates){{#each indices}}{{/each}}
+{{/each}}
+
+{{#each licenses}}
+--------------------------------------------------------------------------------
+{{{name}}}
+Used by:
+{{#each used_by}}
+  - {{crate.name}} {{crate.version}}
+{{/each}}
+
+{{{text}}}
+
+{{/each}}

@@ -1,0 +1,25 @@
+{
+ "bluetts_commit": "cbe51508f3f05207662bc714ad646da8191861d0",
+ "bundle_revision": "39c4843019442bbf67e3980242549504b8583f2c",
+ "files": {
+  "blue_onnx/LICENSE": "54ae7867925aa3b6d2d9c6309a7a0aef5c78647490ae699466cc0bffa00cd917",
+  "blue_onnx/__init__.py": "060c59c23493ab4562fe40e59edd8c0eae415fa5656b77c29b92d349de2e4547",
+  "blue_onnx/ipa_text.py": "f8081cf128ccca8d31887ff133712888fcaeecc52f81be337e836879b1776624",
+  "blue_onnx/text_norm.py": "da37127e6822064d28014bd69343036faf73bd8278ef446e639e9c076321661c",
+  "blue_onnx/style.py": "1fa12b2dbce548631f0d2425bf709e580baf868e27f528d70877a9843d4d7a64",
+  "blue_onnx/vocab.json": "9933a0f696a910bddaae7116a87d2a1dc2a8da62fb1816d506d1ae4f36b09b4c",
+  "yi/NOTICE": "8b9789591ecd18b9da2d25ad41da082650cb882b15af4b17ffdd9627c97e7893",
+  "yi/yi_align.py": "c0bb677589e697d1d2325e969522d41e5a6204cfff8b478657ef40c153b5c003",
+  "yi/yiddish_g2p.py": "c99616f0f2604d689f4b97c5769446af58185bb5d48524ed21ace19014bfac30",
+  "yi/yiddish_labels.py": "aea19b7fd9ca69ff5f53cb030b02c3af191405277581d4e897b05188ec992cf0",
+  "yi/yiddish_renikud.py": "6840badea781d9e8937fad569e73431e7e206527f9dcfe5d0ad0fad5d6d8d441",
+  "yi/data/lexicons/audio_endorsed_lk.py": "81d51ff10c78ce544f305b179bfce74710b75c6d85b10b2c28068596ca718754",
+  "yi/data/lexicons/audio_pe_lk.py": "c83f47426f836effb325ffe09aa1ba51c74da4bdbf382b632218bf0590df8224",
+  "yi/data/lexicons/audio_vowel_lk.py": "96b687bf116a7c1291a90ead1d3459d06b62e9fff0b29176d55ea6aa265b14c4",
+  "yi/data/lexicons/gold_lexicon.py": "cc1864eb1a7834210aaae3acc7704063fccd03272d9e545786a73c75fe2585f1",
+  "yi/data/lexicons/homograph_lk.py": "7a2aae13f4557ddeabd1364c0eb2726fdf4570034405107b5877bef962103473",
+  "yi/data/lexicons/model_pointed_lk.py": "86da2ef28669ad26fd44b897e30e903cb34977503deb8cdc8ce02d4c5c1487d4",
+  "yi/data/lexicons/sefaria_pointed_lk.py": "be101f4abbdfb6dfc2baa002110d5bf4a04441948cbb2edc55efe30077a86be4",
+  "yi/data/lexicons/stress_overrides.py": "a3b9a167f3ee30a853419af82fefc65e34ceb0a2672aec63206255631539147d"
+ }
+}

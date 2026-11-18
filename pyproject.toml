@@ -1,0 +1,45 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "subtitld-addon-bluetts"
+version = "26.11.1"
+description = "Subtitld add-on: offline text-to-speech with BlueTTS (BlueV3), Hebrew and six more languages, with voice cloning"
+readme = "README.md"
+license = { text = "Apache-2.0" }
+authors = [{ name = "Subtitld", email = "jbopen@gmail.com" }]
+requires-python = ">=3.12"
+
+# ONNX Runtime runs the release bundle's graphs through upstream's blue_onnx
+# (vendored in bluetts_addon/vendor/). The G2P front ends: polyg2p for
+# English, German, Spanish, Italian and Russian (not on PyPI: tools/get_polyg2p.py
+# installs the release bundle's wheel, or builds it where there is none),
+# RenikudPlus for Hebrew, and the vendored Yiddish front end.
+# onnxruntime 1.27-1.29 only: the Yiddish front end reads differently on others.
+dependencies = [
+    "onnxruntime>=1.27,<1.30",
+    "numpy>=1.26,<3",  # constraints.txt pins the release build
+    "polyg2p==0.1.0",
+    "renikud-plus==0.5.0",
+    "hebrew-num2words==0.1.0",
+    "num2words==0.5.14",
+]
+
+[project.optional-dependencies]
+build = ["pyinstaller>=6.10"]
+dev = ["pytest>=7.4"]
+
+[project.scripts]
+bluetts-addon = "bluetts_addon.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["bluetts_addon*"]
+
+[tool.setuptools.package-data]
+bluetts_addon = ["pins.json", "vendor/blue_onnx/vocab.json", "vendor/blue_onnx/LICENSE", "vendor/yi/NOTICE",
+                 "vendor/yi/*.py", "vendor/yi/data/lexicons/*.py"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = ["model: needs the BlueV3 model (downloads 428 MB, and 1.7 GB more for Hebrew, Yiddish and cloning)"]

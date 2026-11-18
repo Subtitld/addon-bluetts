@@ -1,0 +1,2418 @@
+{
+"source": "Tatoeba (tatoeba.org), CC-BY 2.0 FR; 100 random sentences per language",
+"phonemizer": "polyg2p 0.1.0, the BlueV3 bundle wheel polyg2p-0.1.0-cp39-abi3-manylinux_2_34_x86_64.whl, POLYG2P_EN_MODEL=large",
+"lines": {
+"en": [
+[
+"Tom had another stroke.",
+"tˈɑːm hæd ɐnˈʌðɚ stɹˈoʊk."
+],
+[
+"Did Tom tell you it would be difficult to do that?",
+"dˈɪd tˈɑːm tˈɛl juː ɪt wʊd biː dˈɪfɪkəlt tə dˈuː ðæt?"
+],
+[
+"Sami's cookies are awful.",
+"sˈæmiz kˈʊkiz ɑːɹ ˈɑːfəl."
+],
+[
+"Tom can already do that.",
+"tˈɑːm kæn ɔːlɹˌɛdi dˈuː ðæt."
+],
+[
+"You need to go there yourself.",
+"juː nˈiːd tə ɡˌoʊ ðɛɹ jɚsˈɛlf."
+],
+[
+"A flexor is a muscle that brings toward each other two parts of the body that are connected at a joint.",
+"ɐ flˈɛksɚ ɪz ɐ mˈʌsəl ðæt bɹˈɪŋz təwˈɔːɹd ˈiːʧ ˈʌðɚ tˈuː pˈɑːɹʦ ʌvðə bˈɑːdi ðæt ɑːɹ kənˈɛktᵻd æɾə ʤˈɔɪnt."
+],
+[
+"It would be safer to stay here.",
+"ɪt wʊd biː sˈeɪfɚ tə stˈeɪ hˈiːɹ."
+],
+[
+"He kept the gate open.",
+"hiː kˈɛpt ðə ɡˈeɪt ˈoʊpən."
+],
+[
+"I have to go feed the chickens.",
+"aɪ hæv tə ɡˌoʊ fˈiːd ðə ʧˈɪkənz."
+],
+[
+"It's the best French restaurant in New York.",
+"ɪʦ ðə bˈɛst fɹˈɛnʧ ɹˈɛstɚɹˌɑːnt ɪn nˈuː jˈɔːɹk."
+],
+[
+"I bought my first guitar in 2013.",
+"aɪ bˈɑːt maɪ fˈɜːst ɡɪtˈɑːɹ ɪn twˈɛnti θɜːtˈiːn."
+],
+[
+"Sami said negative things about Layla.",
+"sˈæmi sˈɛd nˈɛɡəɾɪv θˈɪŋz ɐbˌaʊt lˈeɪlə."
+],
+[
+"My father began jogging last month.",
+"maɪ fˈɑːðɚ bᵻɡˈæn ʤˈɔːɡɪŋ lˈæst mˈʌnθ."
+],
+[
+"That's all that mattered.",
+"ðæʦ ˈɔːl ðæt mˈæɾɚd."
+],
+[
+"Sami has made a big impression.",
+"sˈæmi hɐz mˈeɪd ɐ bˈɪɡ ɪmpɹˈɛʃən."
+],
+[
+"I will wait here for you. Come back tomorrow evening.",
+"aɪ wɪl wˈeɪt hˈiːɹ fɔːɹ juː. kˈʌm bˈæk təmˈɑːɹˌoʊ ˈiːvnɪŋ."
+],
+[
+"Avoid leaving wet or damp items on the counter, as they can damage it.",
+"ɐvˈɔɪd lˈiːvɪŋ wˈɛt ɔːɹ dˈæmp ˈaɪɾəmz ɔnðə kˈaʊntɚ, æz ðeɪ kæn dˈæmɪʤ ɪt."
+],
+[
+"I need to look for my agenda.",
+"aɪ nˈiːd tə lˈʊk fɔːɹ maɪ ɐʤˈɛndə."
+],
+[
+"We raced toward the fire.",
+"wiː ɹˈeɪst təwˈɔːɹd ðə fˈaɪɚ."
+],
+[
+"I eventually collapsed.",
+"aɪ ᵻvˈɛnʧuːəli kəlˈæpst."
+],
+[
+"Tom and Mary said they'd be back next Monday.",
+"tˈɑːm ænd mˈɛɹi sˈɛd ðˈeɪd biː bˈæk nˈɛkst mˈʌndeɪ."
+],
+[
+"We shouldn't ask so much from our apprentices.",
+"wiː ʃˈʊdənt ˈæsk sˌoʊ mˈʌʧ fɹʌm ˌaʊɚ ɐpɹˈɛntɪsᵻz."
+],
+[
+"They're happy with that old Volvo.",
+"ðeɪɚ hˈæpi wɪð ðæt ˈoʊld vˈoʊlvoʊ."
+],
+[
+"Tom said he'll quit doing that.",
+"tˈɑːm sˈɛd hˈiːl kwˈɪt dˈuːɪŋ ðæt."
+],
+[
+"The flickering flames of the fireplace cast a warm glow over Matthew's face.",
+"ðə flˈɪkɚɹɪŋ flˈeɪmz ʌvðə fˈaɪɚplˌeɪs kˈæst ɐ wˈɔːɹm ɡlˈoʊ ˌoʊvɚ mˈæθjuz fˈeɪs."
+],
+[
+"Sami uploads new videos all the time.",
+"sˈæmi ˈʌplˌoʊʣ nˈuː vˈɪdioʊz ˈɔːl ðə tˈaɪm."
+],
+[
+"My only hope of escaping my obligations is to die and allow my younger brother to inherit.",
+"maɪ ˈoʊnli hˈoʊp ʌv ᵻskˈeɪpɪŋ maɪ ˌɑːblɪɡˈeɪʃənz ɪz tə dˈaɪ ænd ɐlˈaʊ maɪ jˈʌŋɡɚ bɹˈʌðɚ tʊ ɪnhˈɛɹɪt."
+],
+[
+"I gave him what money I had.",
+"aɪ ɡˈeɪv hˌɪm wʌt mˈʌni aɪ hˈæd."
+],
+[
+"I can't buy this because I don't have enough money.",
+"aɪ kˈænt bˈaɪ ðɪs bᵻkˈɔːz aɪ dˈoʊnt hæv ɪnˈʌf mˈʌni."
+],
+[
+"How can Tatoeba help you in translation?",
+"hˌaʊ kæn tɑːtˈoʊbə hˈɛlp juː ɪn tɹænzlˈeɪʃən?"
+],
+[
+"He composed the score for the film.",
+"hiː kəmpˈoʊzd ðə skˈɔːɹ fɚðə fˈɪlm."
+],
+[
+"Tom told Mary I was afraid.",
+"tˈɑːm tˈoʊld mˈɛɹi aɪ wʌz ɐfɹˈeɪd."
+],
+[
+"Are there many good restaurants near where you live?",
+"ɑːɹ ðɛɹ mˈɛni ɡˈʊd ɹˈɛstɚɹˌɑːnʦ nˈɪɹ wˌɛɹ juː lˈɪv?"
+],
+[
+"I didn't know you weren't planning to do that with Tom.",
+"aɪ dˈɪdənt nˈoʊ juː wˈɜːɹənt plˈænɪŋ tə dˈuː ðæt wɪð tˈɑːm."
+],
+[
+"Kalman headed towards the German position under heavy fire.",
+"kˈælmən hˈɛdᵻd təwˈɔːɹʣ ðə ʤˈɜːmən pəzˈɪʃən ˌʌndɚ hˈɛvi fˈaɪɚ."
+],
+[
+"Maybe you should stay home from school tomorrow.",
+"mˈeɪbi juː ʃˌʊd stˈeɪ hˈoʊm fɹʌm skˈuːl təmˈɑːɹˌoʊ."
+],
+[
+"Whatever you do, do it with foresight, focusing on the result.",
+"wʌtˈɛvɚ juː dˈuː, dˈuː ɪt wɪð fˈɔːɹsˌaɪt, fˈoʊkəsɪŋ ɔnðə ɹᵻzˈʌlt."
+],
+[
+"Why hasn't she called?",
+"wˌaɪ hˈæzənt ʃiː kˈɔːld?"
+],
+[
+"It's time to reckon with the legacy of colonization.",
+"ɪʦ tˈaɪm tə ɹˈɛkən wɪððə lˈɛɡəsi ʌv kˌɑːlənɪzˈeɪʃən."
+],
+[
+"Tom is responsible, isn't he?",
+"tˈɑːm ɪz ɹᵻspˈɑːnsəbəl, ˌɪzənt hiː?"
+],
+[
+"The cat likes fish, but doesn't like getting its paws wet.",
+"ðə kˈæt lˈaɪks fˈɪʃ, bˌʌt dˈʌzənt lˈaɪk ɡˈɛɾɪŋ ɪʦ pˈɔːz wˈɛt."
+],
+[
+"I suppose Tom and I could try to find Mary ourselves.",
+"aɪ sʌpˈoʊz tˈɑːm ænd aɪ kʊd tɹˈaɪ tə fˈaɪnd mˈɛɹi aʊɚsˈɛlvz."
+],
+[
+"We talked over a cup of coffee.",
+"wiː tˈɔːkt ˌoʊvɚ ɐ kˈʌp ʌv kˈɔːfi."
+],
+[
+"It looks like those two have made up.",
+"ɪt lˈʊks lˈaɪk ðoʊz tˈuː hæv mˈeɪd ˌʌp."
+],
+[
+"Tom told me he felt better.",
+"tˈɑːm tˈoʊld mˌiː hiː fˈɛlt bˈɛɾɚ."
+],
+[
+"This is not a secret.",
+"ðɪs ɪz nˌɑːt ɐ sˈiːkɹɪt."
+],
+[
+"Tom wrote Mary's phone number on a piece of paper and laid it on the table near his telephone.",
+"tˈɑːm ɹˈoʊt mˈɛɹiz fˈoʊn nˈʌmbɚ ˌɔn ɐ pˈiːs ʌv pˈeɪpɚ ænd lˈeɪd ɪt ɔnðə tˈeɪbəl nˈɪɹ hɪz tˈɛləfˌoʊn."
+],
+[
+"Tom was hit from behind.",
+"tˈɑːm wʌz hˈɪt fɹʌm bᵻhˌaɪnd."
+],
+[
+"Tom is a good partner.",
+"tˈɑːm ɪz ɐ ɡˈʊd pˈɑːɹtnɚ."
+],
+[
+"If Tom hadn't helped Mary, she wouldn't have survived.",
+"ɪf tˈɑːm hˈædənt hˈɛlpt mˈɛɹi, ʃiː wˈʊdənt hæv sɚvˈaɪvd."
+],
+[
+"My parents read books and magazines, but I read more.",
+"maɪ pˈɛɹənʦ ɹˈiːd bˈʊks ænd mˈæɡəzinz, bˌʌt aɪ ɹˈiːd mˈɔːɹ."
+],
+[
+"I owe you no explanation.",
+"aɪ ˈoʊ juː nˈoʊ ˌɛksplənˈeɪʃən."
+],
+[
+"The accident occurred just in front of Tom's house.",
+"ðɪ ˈæksɪdənt əkˈɜːd ʤˈʌst ɪn fɹˈʌnt ʌv tˈɑːmz hˈaʊs."
+],
+[
+"Black shoes go with everything.",
+"blˈæk ʃˈuːz ɡˌoʊ wɪð ˈɛvɹiθˌɪŋ."
+],
+[
+"Tom's house is only three blocks from here.",
+"tˈɑːmz hˈaʊs ɪz ˈoʊnli θɹˈiː blˈɑːks fɹʌm hˈiːɹ."
+],
+[
+"Can you show me how to make it?",
+"kæn juː ʃˈoʊ mˌiː hˌaʊ tə mˈeɪk ɪt?"
+],
+[
+"He hoped he might hear from her.",
+"hiː hˈoʊpt hiː mˌaɪt hˈiːɹ fɹʌm hɜː."
+],
+[
+"Tom assured me that he had everything under control.",
+"tˈɑːm ɐʃˈʊɹd mˌiː ðæt hiː hæd ˈɛvɹiθˌɪŋ ˌʌndɚ kəntɹˈoʊl."
+],
+[
+"Sami called Layla at approximately six p.m.",
+"sˈæmi kˈɔːld lˈeɪlə æt əpɹˈɑːksəmətli sˈɪks pˈiː. ˈɛm."
+],
+[
+"Tom was really shocked.",
+"tˈɑːm wʌz ɹˈɪli ʃˈɑːkt."
+],
+[
+"I would say it exactly like this.",
+"aɪ wʊd sˈeɪ ɪt ɪɡzˈæktli lˈaɪk ðɪs."
+],
+[
+"I suggest that you go to Australia with Tom next week.",
+"aɪ səʤˈɛst ðæt juː ɡˌoʊ tʊ ɔːstɹˈeɪljə wɪð tˈɑːm nˈɛkst wˈiːk."
+],
+[
+"Cross the road only when the light is green.",
+"kɹˈɔːs ðə ɹˈoʊd ˈoʊnli wɛn ðə lˈaɪt ɪz ɡɹˈiːn."
+],
+[
+"I hear Tom crying every night.",
+"aɪ hˈiːɹ tˈɑːm kɹˈaɪɪŋ ˈɛvɚɹi nˈaɪt."
+],
+[
+"I hope Tom is getting better.",
+"aɪ hˈoʊp tˈɑːm ɪz ɡˈɛɾɪŋ bˈɛɾɚ."
+],
+[
+"Tom told Mary that he didn't think John was hardworking.",
+"tˈɑːm tˈoʊld mˈɛɹi ðæt hiː dˈɪdənt θˈɪŋk ʤˈɑːn wʌz hˈɑːɹdwˌɜːkɪŋ."
+],
+[
+"She had no one to turn to.",
+"ʃiː hæd nˈoʊ wˈʌn tə tˈɜːn tə."
+],
+[
+"Kalman has to travel to Algiers for a funeral.",
+"kˈælmən hɐz tə tɹˈævəl tʊ ælʤˈɪɹz fɚɹə fjˈuːnɚɹəl."
+],
+[
+"Yanni can do that with anyone.",
+"jˈæni kæn dˈuː ðæt wɪð ˈɛniwˌʌn."
+],
+[
+"The sword has no effect on Gustavo.",
+"ðə sˈɔːɹd hɐz nˈoʊ ᵻfˈɛkt ˌɔn ɡəstˈɑːvoʊ."
+],
+[
+"She left me with no explanation.",
+"ʃiː lˈɛft mˌiː wɪð nˈoʊ ˌɛksplənˈeɪʃən."
+],
+[
+"What should I tell them?",
+"wʌt ʃˌʊd aɪ tˈɛl ðˌɛm?"
+],
+[
+"Love is much more than just falling in love.",
+"lˈʌv ɪz mˈʌʧ mˈɔːɹ ðɐn ʤˈʌst fˈɔːlɪŋ ɪn lˈʌv."
+],
+[
+"Sami clocked in at six and left at noon.",
+"sˈæmi klˈɑːkt ɪn æt sˈɪks ænd lˈɛft æt nˈuːn."
+],
+[
+"What will I say when he arrives?",
+"wʌt wɪl aɪ sˈeɪ wɛn hiː ɚɹˈaɪvz?"
+],
+[
+"Ah, you came as promised.",
+"ˈɑː, juː kˈeɪm æz pɹˈɑːmɪst."
+],
+[
+"His whole life will be ruined.",
+"hɪz hˈoʊl lˈaɪf wɪl biː ɹˈuːɪnd."
+],
+[
+"Terrorism is a global issue, not limited to one religion.",
+"tˈɛɹɚɹˌɪzəm ɪz ɐ ɡlˈoʊbəl ˈɪʃu, nˌɑːt lˈɪmɪɾᵻd tə wˈʌn ɹᵻlˈɪʤən."
+],
+[
+"He gave her a kiss on the hand.",
+"hiː ɡˈeɪv hɜː ɐ kˈɪs ɔnðə hˈænd."
+],
+[
+"I make it a rule to do that for about three hours every day.",
+"aɪ mˈeɪk ɪt ɐ ɹˈuːl tə dˈuː ðæt fɔːɹ ɐbˌaʊt θɹˈiː ˈaʊɚz ˈɛvɚɹi dˈeɪ."
+],
+[
+"Tom did admit that he was wrong.",
+"tˈɑːm dˈɪd ɐdmˈɪt ðæt hiː wʌz ɹˈɔːŋ."
+],
+[
+"He held his breath while watching the match.",
+"hiː hˈɛld hɪz bɹˈɛθ wˌaɪl wˈɑːʧɪŋ ðə mˈæʧ."
+],
+[
+"You got an electric shock.",
+"juː ɡˈɑːt æn ᵻlˈɛktɹɪk ʃˈɑːk."
+],
+[
+"Tom doesn't complain about much.",
+"tˈɑːm dˈʌzənt kəmplˈeɪn ɐbˌaʊt mˈʌʧ."
+],
+[
+"My mother isn't very strict, but my father is.",
+"maɪ mˈʌðɚ ˌɪzənt vˈɛɹi stɹˈɪkt, bˌʌt maɪ fˈɑːðɚ ˈɪz."
+],
+[
+"\"I'm going shopping. Do you want to come?\" \"Sure!\"",
+"aɪm ɡˌoʊɪŋ ʃˈɑːpɪŋ. dˈuː juː wˈɑːnt tə kˈʌm? ʃˈʊɹ!"
+],
+[
+"Tom has been told that he ought to do that.",
+"tˈɑːm hˈæzbiːn tˈoʊld ðæt hiː ˈɔːt tə dˈuː ðæt."
+],
+[
+"Tom says he has three other suggestions to make.",
+"tˈɑːm sˈɛz hiː hɐz θɹˈiː ˈʌðɚ səʤˈɛsʧənz tə mˈeɪk."
+],
+[
+"Yanni sure loves to flirt with beautiful girls.",
+"jˈæni ʃˈʊɹ lˈʌvz tə flˈɜːt wɪð bjˈuːɾɪfəl ɡˈɜːlz."
+],
+[
+"I thought you guys had a big party tonight.",
+"aɪ θˈɔːt juː ɡˈaɪz hæd ɐ bˈɪɡ pˈɑːɹɾi tənˈaɪt."
+],
+[
+"Leave me and my kids alone.",
+"lˈiːv mˌiː ænd maɪ kˈɪʣ ɐlˈoʊn."
+],
+[
+"Tom fixed my computer.",
+"tˈɑːm fˈɪkst maɪ kəmpjˈuːɾɚ."
+],
+[
+"Tom equalised in the twenty-fifth minute.",
+"tˈɑːm ˈiːkwəlaɪzd ɪnðə twˈɛnti fˈɪfθ mˈɪnɪt."
+],
+[
+"Good evening! I'm Mary, a friend of Tom's.",
+"ɡˈʊd ˈiːvnɪŋ! aɪm mˈɛɹi, ɐ fɹˈɛnd ʌv tˈɑːmz."
+],
+[
+"The left back called the referee a numpty.",
+"ðə lˈɛft bˈæk kˈɔːld ðə ɹˌɛfɚɹˈiː ɐ nˈʌmpti."
+],
+[
+"Tom doesn't need a lawyer.",
+"tˈɑːm dˈʌzənt nˈiːd ɐ lˈɔːjɚ."
+],
+[
+"Tom told me that you think I had something to do with this.",
+"tˈɑːm tˈoʊld mˌiː ðæt juː θˈɪŋk aɪ hæd sˈʌmθɪŋ tə dˈuː wɪð ðɪs."
+],
+[
+"You think you're so much better.",
+"juː θˈɪŋk jʊɹ sˌoʊ mˈʌʧ bˈɛɾɚ."
+],
+[
+"Giraffes are incredible creatures.",
+"ʤɚɹˈæfs ɑːɹ ɪnkɹˈɛdəbəl kɹˈiːʧɚz."
+],
+[
+"Perhaps Tom and Mary don't play tennis anymore.",
+"pɚhˈæps tˈɑːm ænd mˈɛɹi dˈoʊnt plˈeɪ tˈɛnɪs ˌɛnimˈɔːɹ."
+]
+],
+"de": [
+[
+"Ich kann ihm zurzeit nicht helfen.",
+"ɪç kˌan iːm tsʊɾtsˈaɪt nˈɪçt hˈɛlfən."
+],
+[
+"Er schlug vor, dass wir Baseball spielen.",
+"ɛɾ ʃlˈuːk fˌɔɾ, das viːɾ bˈɛɪsbɔːl ʃpˈiːlən."
+],
+[
+"Tom ließ mich die Arbeit machen.",
+"tˈɔm lˈiːs mɪç diː ˈaɾbaɪt mˈaxən."
+],
+[
+"Einige Fenster waren offen, andere geschlossen.",
+"ˌaɪnɪɡə fˈɛnstɜ vɑːrən ˈɔfən, ˈandərə ɡəʃlˈɔsən."
+],
+[
+"Dreh dichc dreimal um dich selbst",
+"dɾˈeː dˈɪçk dɾˈaɪmɑːl ʊm dɪç zˈɛlpst"
+],
+[
+"Es kommt mir dumm vor, das zu tun.",
+"ɛs kˈɔmt miːɾ dˈʊm fˌɔɾ, das tsuː tˈuːn."
+],
+[
+"Sie kommt doch bald, oder?",
+"ziː kˈɔmt dɔx bˈalt, ˌoːdɜ?"
+],
+[
+"Zunder ist ein leichtentzündliches Material.",
+"tsˈʊndɜ ɪst aɪn lˈaɪçtɛnttsˌʏntlɪçəs mateːrjˈɑːl."
+],
+[
+"Niemand weiß, ob es in Nahost zum Krieg kommen wird.",
+"nˈiːmant vˈaɪs, ˌɔp ɛs ɪn nɑːˈɔst tsʊm kɾˈiːk kˈɔmən vˌɪɾt."
+],
+[
+"Mit wem geht ihr mit?",
+"mɪt vˈeːm ɡˈeːt iːɾ mɪt?"
+],
+[
+"Ich habe das instinktiv getan.",
+"ɪç hɑːbə das ɪnstɪŋktˈiːf ɡətˈɑːn."
+],
+[
+"Wir brauchen Ihr Geld nicht.",
+"viːɾ bɾˈaʊxən iːɾ ɡˈɛlt nˈɪçt."
+],
+[
+"Die Amtssprache des Bundesstaates Tamil Nadu ist Tamil.",
+"diː ˈamtsʃpɾˌɑːxə dɛs bˈʊndəsʃtˌɑːtəs tˈɑːmɪl nˈɑːdʊ ɪst tˈɑːmɪl."
+],
+[
+"Ich habe es getan, um dich glücklich zu machen.",
+"ɪç hɑːbə ɛs ɡətˈɑːn, ʊm dɪç ɡlˈʏklɪç tsuː mˈaxən."
+],
+[
+"Tom ist mein Schüler.",
+"tˈɔm ɪst maɪn ʃˈyːlɜ."
+],
+[
+"Ihre Eltern beteten mich an.",
+"ˌiːrə ˈɛltɜn bˈeːtətən mɪç an."
+],
+[
+"Das ist die Art von Musik, die ich mag.",
+"das ɪst diː ˈɑːɾt fɔn muːzˈiːk, diː ɪç mˈɑːk."
+],
+[
+"Die Schülerin hat die Lehrerin übertroffen.",
+"diː ʃˈyːlərɪn hat diː lˈeːrərɪn yːbɜtɾˈɔfən."
+],
+[
+"Ich erwarte sehnsüchtig die Ferien.",
+"ɪç ɛɾvˈaɾtə zˈeːnzˌʏçtɪç diː fˈeːrɪən."
+],
+[
+"Die Macht hat stets, wer zahlt.",
+"diː mˈaxt hat ʃtˈeːʦ, vˈeːɾ tsˈɑːlt."
+],
+[
+"Es gibt Menschen von so aufbrausendem und erregbarem Charakter, dass es ratsamer ist, sie komplett zu ignorieren, als sie zum Freund zu haben.",
+"ɛs ɡˈiːpt mˈɛnʃən fɔn zoː ˈaʊfbɾˌaʊzəndəm ʊnt ɛɾrˈeːkbɑːrəm karˈaktɜ, das ɛs rˈɑːtz̥ɑːmɜ ɪst, ziː kɔmplˈɛt tsuː ɪɡnoːrˈiːrən, als ziː tsʊm frˈɔønt tsuː hˌɑːbən."
+],
+[
+"Er fährt immer morgens um acht Uhr zur Arbeit.",
+"ɛɾ fˈɛːɾt ˈɪmɜ mˈɔɾɡəns ʊm ˈaxt ˈuːɾ tsuːɾ ˈaɾbaɪt."
+],
+[
+"Hab mal wieder die NDR vergessen.",
+"hˈɑːp mˈɑːl vˈiːdɜ diː ˌɛndˌeːˈɛɾ fɛɾɡˈɛsən."
+],
+[
+"Sie war nie verliebt.",
+"ziː vɑːɾ nˈiː fɛɾlˈiːpt."
+],
+[
+"Deutsche regen sich immer gerne über Sachen auf, die in Deutschland nicht richtig laufen.",
+"dˈɔøʧə rˈeːɡən zɪç ˈɪmɜ ɡˈɛɾnə ˌyːbɜ zˈaxən aʊf, diː ɪn dˈɔøʧlant nˈɪçt rˈɪçtɪç lˈaʊfən."
+],
+[
+"Sagen dir Tom und Maria, was du tun sollst?",
+"zˈɑːɡən diːɾ tˈɔm ʊnt marˈiːa, vˈas duː tˈuːn zˈɔlst?"
+],
+[
+"Die Sterne funkeln am Himmel.",
+"diː ʃtˈɛɾnə fˈʊŋkəln am hˈɪməl."
+],
+[
+"Toms Tee enthält dreißig Prozent Alkohol.",
+"tˈɔms tˈeː ɛnthˈɛlt dɾˈaɪsɪç pɾoːtsˈɛnt alkoːhˈoːl."
+],
+[
+"Wie sagt man \"Katze\" auf Spanisch?",
+"viː zˈɑːkt man kˈatsə aʊf ʃpˈɑːnɪʃ?"
+],
+[
+"„Papa, welche ist meine rechte Hand?“ – „Die, mit der du zeichnest, mein Kleiner.“",
+"pˈapa, vˈɛlçə ɪst mˌaɪnə rˈɛçtə hˈant? diː, mɪt dɛɾ duː tsˈaɪçnəst, maɪn klˈaɪnɜ."
+],
+[
+"Tom bat Maria, nicht viel Gepäck mitzunehmen.",
+"tˈɔm bˈɑːt marˈiːa, nˈɪçt fˈiːl ɡəpˈɛk mˈɪttsuːnˌeːmən."
+],
+[
+"Ich hatte große Angst, Sie zu verlieren.",
+"ɪç hˌatə ɡɾˈoːsə ˈaŋst, ziː tsuː fɛɾlˈiːrən."
+],
+[
+"Machen Sie den Motor aus.",
+"mˈaxən ziː deːn mˈoːtoːɾ ˌaʊs."
+],
+[
+"Es soll morgen schneien.",
+"ɛs zˌɔl mˈɔɾɡən ʃnˈaɪən."
+],
+[
+"Tom beißt sich auf die Fingernägel.",
+"tˈɔm bˈaɪst zɪç aʊf diː fˈɪŋɜnˌɛːɡəl."
+],
+[
+"Im Krieg war mein Großvater Soldat.",
+"ɪm kɾˈiːk vɑːɾ maɪn ɡɾˈoːsfˌɑːtɜ zɔldˈɑːt."
+],
+[
+"Kümmern Sie sich um diese Herren!",
+"kˈʏmɜn ziː zɪç ʊm dˌiːzə hˈɛrən!"
+],
+[
+"„Guten Tag, Frau Poppins!“ – „Guten Tag, Herr Doktor! Ich bin heilfroh, so schnell einen Termin bekommen zu haben.“",
+"ɡˈuːtən tˈɑːk, frˈaʊ pˈɔppˌɪns! ɡˈuːtən tˈɑːk, hˈɛɾ dˈɔktoːɾ! ɪç bɪn hˈaɪlfrˌoː, zoː ʃnˈɛl ˌaɪnən tɛɾmˈiːn bəkˈɔmən tsuː hˌɑːbən."
+],
+[
+"Ich glaube, dass ich Schüsse wohl gehört hätte, wenn es welche gegeben hätte.",
+"ɪç ɡlˈaʊbə, das ɪç ʃˈʏsə vˈoːl ɡəhˈøːɾt hˌɛtə, vˌɛn ɛs vˈɛlçə ɡəɡˈeːbən hˌɛtə."
+],
+[
+"Es macht mir nichts aus, kalten Kaffee zu trinken.",
+"ɛs mˈaxt miːɾ nˈɪçʦ ˌaʊs, kˈaltən kafˈeː tsuː tɾˈɪŋkən."
+],
+[
+"Weißt du tatsächlich nicht, wer er ist?",
+"vˈaɪst duː tˈɑːtzˌɛçlɪç nˈɪçt, vˈeːɾ ɛɾ ɪst?"
+],
+[
+"Tom hat die äußerst nervige Angewohnheit, ständig zu quatschen, wenn sich Maria im Fernsehen einen Film ansehen möchte.",
+"tˈɔm hat diː ˈɔøsɜst nˈɛɾfɪɡə ˈanɡəvˌoːnhaɪt, ʃtˈɛndɪç tsuː kvˈaʧən, vˌɛn zɪç marˈiːa ɪm fˈɛɾnzˌeːən ˌaɪnən fˈɪlm ˈanzˌeːən mˈœçtə."
+],
+[
+"Das Küken fiel aus dem Nest.",
+"das kˈyːkən fˈiːl ˌaʊs deːm nˈɛst."
+],
+[
+"Ich habe schon vergessen, was heißt, jung, verückt und verliebt zu sein.",
+"ɪç hɑːbə ʃˌoːn fɛɾɡˈɛsən, vˈas hˈaɪst, jˈʊŋ, fɛɾˈʏkt ʊnt fɛɾlˈiːpt tsuː zaɪn."
+],
+[
+"Vergiss nicht, den Fernseher auszuschalten, ehe du schlafen gehst.",
+"fɛɾɡˈɪs nˈɪçt, deːn fˈɛɾnzˌeːɜ ˈaʊstsuːʃˌaltən, ˈeːə duː ʃlˈɑːfən ɡˈeːst."
+],
+[
+"Wir kommen, sobald es uns möglich ist.",
+"viːɾ kˈɔmən, zoːbˈalt ɛs ʊns mˈøːklɪç ɪst."
+],
+[
+"Ich erinnerte mich an dich.",
+"ɪç ɛɾˈɪnɜtə mɪç an dɪç."
+],
+[
+"Was ist Gerechtigkeit?",
+"vˈas ɪst ɡərˈɛçtɪçkaɪt?"
+],
+[
+"Mir ist nicht wichtig, wie du mich nennst.",
+"miːɾ ɪst nˈɪçt vˈɪçtɪç, viː duː mɪç nˈɛnst."
+],
+[
+"Ich lege mich mal für eine Minute hin.",
+"ɪç lˈeːɡə mɪç mˈɑːl fyːɾ ˌaɪnə miːnˈuːtə hˈɪn."
+],
+[
+"Weil ich zu spät aufgestanden bin, habe ich den Bus verpasst.",
+"vˌaɪl ɪç tsuː ʃpˈɛːt ˈaʊfɡəʃtˌandən bɪn, hɑːbə ɪç deːn bˈʊs fɛɾpˈast."
+],
+[
+"Eisen ist mehr nützlich als schön.",
+"ˈaɪzən ɪst mˈeːɾ nˈʏtslɪç als ʃˈøːn."
+],
+[
+"Ich kaufe nie wieder Fisch bei Tesco.",
+"ɪç kˈaʊfə nˈiː vˈiːdɜ fˈɪʃ baɪ tˈɛskoː."
+],
+[
+"Du wirst nicht als Verkäufer geboren. Du wirst Verkäufer durch tägliches Training.",
+"duː vˈɪɾst nˈɪçt als fɛɾkˈɔøfɜ ɡəbˈoːrən. duː vˈɪɾst fɛɾkˈɔøfɜ dʊɐç tˈɛːklɪçəs tɾˈɛːnɪŋ."
+],
+[
+"Damit Tom ruhig bleibt, wird er von allen in der Psychiatrie als Weihnachtsmann angesprochen – weil er sich eben für den Weihnachtsmann hält.",
+"dɑːmˈɪt tˈɔm rˈuːɪç blˈaɪpt, vˌɪɾt ɛɾ fɔn ˈalən ɪn dɛɾ psyːçjatɾˈiː als vˈaɪnaxtsmˌan ˈanɡəʃpɾˌɔxən vˌaɪl ɛɾ zɪç ˈeːbən fyːɾ deːn vˈaɪnaxtsmˌan hˈɛlt."
+],
+[
+"Kannst du uns ein bißchen von dir erzählen?",
+"kˌanst duː ʊns aɪn bˈiːsçən fɔn diːɾ ɛɾtsˈɛːlən?"
+],
+[
+"Der Tee ist kochend heiß.",
+"dɛɾ tˈeː ɪst kˈɔxənt hˈaɪs."
+],
+[
+"Ich bin schon betrunken.",
+"ɪç bɪn ʃˌoːn bətɾˈʊŋkən."
+],
+[
+"Ich habe Tom ein Bild von mir geschickt.",
+"ɪç hɑːbə tˈɔm aɪn bˈɪlt fɔn miːɾ ɡəʃˈɪkt."
+],
+[
+"Sie tollten durch die Gassen, einander Witze und Beleidigungen bunt durcheinander zurufend.",
+"ziː tˈɔltən dʊɐç diː ɡˈasən, aɪnˈandɜ vˈɪtsə ʊnt bəlˈaɪdɪɡʊŋən bˈʊnt dʊɐçaɪnˈandɜ tsˈuːrˌuːfənt."
+],
+[
+"Das Leben eines Schmetterlings währet nur drei Tage.",
+"das lˈeːbən ˌaɪnəs ʃmˈɛtɜlɪŋs vˈɛːrət nˈuːɾ dɾˈaɪ tˈɑːɡə."
+],
+[
+"Es ist so viel besser als vorher.",
+"ɛs ɪst zoː fˈiːl bˈɛsɜ als fˈoːɾheːɾ."
+],
+[
+"Er ist ein Weltklasseschauspieler.",
+"ɛɾ ɪst aɪn vˈɛltklˌasəʃˌaʊʃpˌiːlɜ."
+],
+[
+"Tom wurde Gelegenheit gegeben, seine Aussage zurückzunehmen, aber er entschied sich dagegen.",
+"tˈɔm vˌʊɐdə ɡəlˈeːɡənhaɪt ɡəɡˈeːbən, zˌaɪnə ˈaʊszˌɑːɡə tsuːrˈʏktsuːnˌeːmən, ˌɑːbɜ ɛɾ ɛnʧˈiːt zɪç daɡˈeːɡən."
+],
+[
+"Darf ich dir einen Tipp geben?",
+"dˈaɾf ɪç diːɾ ˌaɪnən tˈɪp ɡˈeːbən?"
+],
+[
+"Bis auf einen waren alle da.",
+"bɪs aʊf ˌaɪnən vɑːrən ˈalə dɑː."
+],
+[
+"Gegenstände des täglichen Bedarfs wurden noch teurer.",
+"ɡˈeːɡənʃtɛndə dɛs tˈɛːklɪçən bədˈaɾfs vˌʊɐdən nɔx tˈɔørɜ."
+],
+[
+"Im Krieg wird der gute Mensch besser, der schlechte aber noch schlechter.",
+"ɪm kɾˈiːk vˌɪɾt dɛɾ ɡˈuːtə mˈɛnʃ bˈɛsɜ, dɛɾ ʃlˈɛçtə ˌɑːbɜ nɔx ʃlˈɛçtɜ."
+],
+[
+"Diese Einspielung zeichnet sich durch eine geglückte Synthese von struktureller Klarheit und affektbezogener Musizierweise aus.",
+"dˌiːzə ˈaɪnʃpˌiːlʊŋ tsˈaɪçnət zɪç dʊɐç ˌaɪnə ɡəɡlˈʏktə zʏntˈeːzə fɔn ʃtɾʊktuːrˈɛlɜ klˈɑːɾhaɪt ʊnt afˈɛktbətsˌoːɡənɜ mˈuːziːtsiːɛɾvˌaɪzə ˌaʊs."
+],
+[
+"Ist der Weg noch lang?",
+"ɪst dɛɾ vˈeːk nɔx lˈaŋ?"
+],
+[
+"Gib Tom nichts zu trinken!",
+"ɡˈiːp tˈɔm nˈɪçʦ tsuː tɾˈɪŋkən!"
+],
+[
+"Wir verteilen die Hausarbeiten.",
+"viːɾ fɛɾtˈaɪlən diː hˈaʊsaɾbˌaɪtən."
+],
+[
+"Der Nettogewinn beläuft sich auf zehn Millionen Dollar pro Jahr.",
+"dɛɾ nˈɛtoːɡəvˌɪn bəlˈɔøft zɪç aʊf tsˈeːn mɪljˈoːnən dˈɔlaɾ pɾoː jˈɑːɾ."
+],
+[
+"Wann haben Sie das letztemal etwas Hausgemachtes gegessen?",
+"vˈan hˌɑːbən ziː das lˈɛtstəmˌɑːl ˈɛtvas hˈaʊsɡəmˌaxtəs ɡəɡˈɛsən?"
+],
+[
+"Der Junge spricht wie ein Erwachsener.",
+"dɛɾ jˈʊŋə ʃpɾˈɪçt viː aɪn ɛɾvˈaksənɜ."
+],
+[
+"Die Jugendarbeitslosigkeit in der Kabylei beträgt schätzungsweise 40 %.",
+"diː jˈuːɡəntˌaɾbaɪtsloːzɪçkaɪt ɪn dɛɾ kabyːlˈaɪ bətɾˈɛːkt ʃˈɛtsʊŋsvˌaɪzə fˈiːɾtsɪç pɾoːtsˈɛnt."
+],
+[
+"Haben Sie noch andere Hobbys?",
+"hˌɑːbən ziː nɔx ˈandərə hˈɔbiːs?"
+],
+[
+"Toms Arbeit wird immer schlechter.",
+"tˈɔms ˈaɾbaɪt vˌɪɾt ˈɪmɜ ʃlˈɛçtɜ."
+],
+[
+"Er fühlt sich sehr glücklich.",
+"ɛɾ fˈyːlt zɪç zˈeːɾ ɡlˈʏklɪç."
+],
+[
+"Warum sorgt ihr euch so um sie?",
+"vaːrˈʊm zˈɔɾkt iːɾ ɔøç zoː ʊm ziː?"
+],
+[
+"Ich ging an den Fluss, um zu angeln.",
+"ɪç ɡˈɪŋ an deːn flˈʊs, ʊm tsuː ˈaŋəln."
+],
+[
+"Ich würde gerne ins Kino gehen.",
+"ɪç vˈʏɾdə ɡˈɛɾnə ɪns kˈiːnoː ɡˈeːən."
+],
+[
+"Entdecken Sie unser Rezept für ein leckeres Fleischgericht!",
+"ɛntdˈɛkən ziː ˌʊnzɜ reːtsˈɛpt fyːɾ aɪn lˈɛkərəs flˈaɪʃɡərˌɪçt!"
+],
+[
+"Tom pflegte des Montags hierherzukommen.",
+"tˈɔm pflˈeːktə dɛs mˈoːntɑːks hˈiːɾhˌeːɾtsuːkˌɔmən."
+],
+[
+"Unser Hauptbüro ist in Osaka.",
+"ˌʊnzɜ hˈaʊptbyːrˌoː ɪst ɪn ˈoːzaka."
+],
+[
+"„Max Mustermann“ ist ein auf Mustern von Ausweispapieren häufig verwendeter Platzhaltername.",
+"mˈaks mˈuːstɛɾmˌan ɪst aɪn aʊf mˈʊstɜn fɔn ˈaʊsvˌaɪspapˌiːrən hˈɔøfɪç fɛɾvˈɛndətɜ plˈatshˌaltɜnˌɑːmə."
+],
+[
+"Ich würde gerne 10 Dollar in Münzen einwechseln.",
+"ɪç vˈʏɾdə ɡˈɛɾnə tsˈeːn dˈɔlaɾ ɪn mˈʏntsən ˈaɪnvˌɛksəln."
+],
+[
+"Welchen Freund triffst du Sonntag und welchen siehst du Montag?",
+"vˈɛlçən frˈɔønt tɾˈɪfst duː zˈɔntɑːk ʊnt vˈɛlçən zˈiːst duː mˈoːntɑːk?"
+],
+[
+"Der Glaube an Gott ist nicht das Böse an sich.",
+"dɛɾ ɡlˈaʊbə an ɡˈɔt ɪst nˈɪçt das bˈøːzə an zɪç."
+],
+[
+"\"Was riecht hier so?\" \"Das ist Olivenöl.\"",
+"vˈas rˈiːçt hˈiːɾ zoː? das ɪst oːlˈiːvənˌøːl."
+],
+[
+"Tom ging das Geld zur Neige.",
+"tˈɔm ɡˈɪŋ das ɡˈɛlt tsuːɾ nˈaɪɡə."
+],
+[
+"Ich will einfach nur perfekt sein.",
+"ɪç vɪl ˈaɪnfax nˈuːɾ pɛɾfˈɛkt zaɪn."
+],
+[
+"Sankt Petersburg ist eine russische Stadt.",
+"zˈaŋkt pˈeːtɜsbˌʊɐk ɪst ˌaɪnə rˈʊsɪʃə ʃtˈat."
+],
+[
+"Das ist uninteressant.",
+"das ɪst ˈʊnɪntərɛsˌant."
+],
+[
+"Haben Sie mich verstanden?",
+"hˌɑːbən ziː mɪç fɛɾʃtˈandən?"
+],
+[
+"Die Gewohnheit wird oft zur zweiten Natur.",
+"diː ɡəvˈoːnhaɪt vˌɪɾt ˈɔft tsuːɾ tsvˈaɪtən natˈuːɾ."
+],
+[
+"Robert spricht nur sehr selten Tatarisch.",
+"rˈoːbɛɾt ʃpɾˈɪçt nˈuːɾ zˈeːɾ zˈɛltən tatˈɑːrɪʃ."
+],
+[
+"Wenn du so weitermachst, wird es dir schlecht ergehen.",
+"vˌɛn duː zoː vˈaɪtɜmˌaxst, vˌɪɾt ɛs diːɾ ʃlˈɛçt ɛɾɡˈeːən."
+],
+[
+"Artikel dürfen wiedergegeben werden, vorausgesetzt, der Ursprung wird angegeben.",
+"ˌaɾtˈiːkəl dˈʏɾfən vˈiːdɜɡəɡˌeːbən vˌɛɾdən, foːrˈaʊsɡəzˌɛtst, dɛɾ ˈuːɾʃpɾˌʊŋ vˌɪɾt ˈanɡəɡˌeːbən."
+],
+[
+"Wir haben beschlossen, aus Australien wegzugehen.",
+"viːɾ hˌɑːbən bəʃlˈɔsən, ˌaʊs aʊstɾˈɑːljən vˈɛktsuːɡˌeːən."
+]
+],
+"es": [
+[
+"Tuvo que estudiar mucho para ponerse al día con sus compañeros de clase.",
+"tˈuβo ke ˌestuðjˈaɾ mˈuʧo pˌaɾa ponˈeɾse al dˈia kon sus kˌompaɲˈeɾos ðe klˈase."
+],
+[
+"Tom probablemente tendrá éxito.",
+"tˈom pɾoβˈaβlemˈente tendɾˈa ˈeksito."
+],
+[
+"¿Qué tiene de malo estar desnudo en tu propia casa?",
+"kˈe tjˈene ðe mˈalo estˈaɾ ðesnˈuðo en tu pɾˈopja kˈasa?"
+],
+[
+"Tom siguió trabajando a pesar de estar muy cansado.",
+"tˈom siɣjˈo tɾˌaβaxˈando a pesˈaɾ ðe estˈaɾ mˈuj kansˈaðo."
+],
+[
+"Nunca me he enamorado de alguna chica.",
+"nˈunka me ˈe ˌenamoɾˈaðo ðe alɣˈuna ʧˈika."
+],
+[
+"Puesto que estás aquí, puedes ayudarme.",
+"pwˈesto ke estˈas akˈi, pwˈeðes ˌaʝuðˈaɾme."
+],
+[
+"Las nutrias marinas se alimentan de bivalvos.",
+"las nˈutɾias maɾˈinas se ˌalimˈɛntan de βiβˈalβos."
+],
+[
+"Era evidente que las dos mujeres se conocían muy bien.",
+"ˈeɾa ˌeβiðˈɛnte ke las ðˈos muxˈeɾes se kˌonoθˈian mˈuj βjˈen."
+],
+[
+"Cuanto más bebía el público, más ruidoso se volvía.",
+"kwˌanto mˈas βeβˈia el pˈuβliko, mˈas rˌuiðˈoso se βolβˈia."
+],
+[
+"Él habría querido que no estuvieseis tristes.",
+"ˈel aβɾˈia keɾˈiðo ke nˈo ˌestuβjˈeseɪs tɾˈistes."
+],
+[
+"Sería estúpido escalar esa montaña en invierno.",
+"seɾˈia estˈupiðo ˌeskalˈaɾ ˈesa montˈaɲa en imbjˈeɾno."
+],
+[
+"Dio a luz un niño precioso.",
+"djˈo a lˈuθ ˈun nˈiɲo pɾeθjˈoso."
+],
+[
+"Ella vivió allí durante unos cinco años.",
+"ˈeʎa βiβjˈo aʎˈi ðuɾˈante ˈunos θˈinko ˈaɲos."
+],
+[
+"¿Qué piensa usted que haría?",
+"kˈe pjˈɛnsa ustˈed ke aɾˈia?"
+],
+[
+"¿La dependencia del juego es una enfermedad?",
+"la ðˌependˈɛnθja ðel xwˈeɣo ˈes ˈuna ˌenfeɾmeðˈad?"
+],
+[
+"Ahora estoy de camino al trabajo.",
+"aˈoɾa estˈoɪ ðe kamˈino al tɾaβˈaxo."
+],
+[
+"Me encanta pintar con acuarela.",
+"me enkˈanta pintˈaɾ kon ˌakwaɾˈela."
+],
+[
+"Pobre como es, no lo puede comprar.",
+"pˈoβɾe kˌomo ˈes, nˈo lo pwˈeðe kompɾˈaɾ."
+],
+[
+"¿Le escribiste a Tomás?",
+"le ˌeskɾiβˈiste a tomˈas?"
+],
+[
+"Puedes usar nuestro auto si conduces con cuidado.",
+"pwˈeðes usˈaɾ nwˈestɾo ˈaʊto si kondˈuθes kon kwiðˈaðo."
+],
+[
+"Tom se dio cuenta de que la ropa de Mary estaba sin lavar.",
+"tˈom se ðjˈo kwˈɛnta ðe ke la rˈopa ðe maɾˈi estˈaβa sin laβˈaɾ."
+],
+[
+"Quiero empezar a aprender español.",
+"kjˈeɾo ˌempeθˈaɾ a ˌapɾendˈeɾ ˌespaɲˈol."
+],
+[
+"¿Compraste la medicina?",
+"kompɾˈaste la mˌeðiθˈina?"
+],
+[
+"El lenguaje forma parte intrínseca del género humano. ¡Nacemos genéticamente preparados para hablar!",
+"el leŋɡwˈaxe fˈoɾma pˈaɾte intɾˈinseka ðel xˈeneɾo umˈano. naθˈemos xenˈetikamˈente pɾˌepaɾˈaðos pˌaɾa aβlˈaɾ!"
+],
+[
+"Muplis es una pequeña herramienta para buscar oraciones en lojban.",
+"mˈuplis ˈes ˈuna pekˈeɲa ˌeramjˈɛnta pˌaɾa βuskˈaɾ ˌoɾaθjˈones en lˈoxβan."
+],
+[
+"¡Qué sorpresa tan agradable verte aquí!",
+"kˈe soɾpɾˈesa tan ˌaɣɾaðˈaβle βˈeɾte akˈi!"
+],
+[
+"Tenemos que empezar de nuevo.",
+"tenˈemos ke ˌempeθˈaɾ ðe nwˈeβo."
+],
+[
+"No sé qué edad tengo.",
+"nˈo sˈe kˈe eðˈad tˈɛŋɡo."
+],
+[
+"Tom me pegó por accidente.",
+"tˈom me peɣˈo poɾ ˌakθiðˈɛnte."
+],
+[
+"Tom dijo que estaba ocupado.",
+"tˈom dˈixo ke estˈaβa ˌokupˈaðo."
+],
+[
+"Acabo de recibir tu carta.",
+"akˈaβo ðe rˌeθiβˈiɾ tu kˈaɾta."
+],
+[
+"La cerveza es gratis los jueves por la noche.",
+"la θeɾβˈeθa ˈes ɣɾˈatis los xwˈeβes poɾ la nˈoʧe."
+],
+[
+"El profesor de física es un animal.",
+"el pɾˌofesˈoɾ ðe fˈisika ˈes ˈun ˌanimˈal."
+],
+[
+"Sus ojos estaban brillantes.",
+"sus ˈoxos estˈaβan bɾiʎˈantes."
+],
+[
+"¿Tengo que responder en inglés o qué?",
+"tˈɛŋɡo ke rˌespondˈeɾ en iŋɡlˈes o kˈe?"
+],
+[
+"No sabíamos qué autobús coger.",
+"nˈo saβˈiamos kˈe ˌaʊtoβˈus koxˈeɾ."
+],
+[
+"La abuela dijo que todavía sabemos muy poco sobre la vida.",
+"la aβwˈela ðˈixo ke tˌoðaβˈia saβˈemos mˈuj pˈoko sˌoβɾe la βˈiða."
+],
+[
+"En la puerta de al lado vive un médico.",
+"en la pwˈeɾta ðe al lˈaðo βˈiβe ˈun mˈeðiko."
+],
+[
+"Ellas se encontraron en el aeropuerto.",
+"ˈeʎas se ˌenkontɾˈaɾon en el ˌaeɾopwˈeɾto."
+],
+[
+"Me parece a mí que ella tiene una tendencia a exagerar.",
+"me paɾˈeθe a mˈi ke ˈeʎa tjˈene ˈuna tendˈɛnθja a ˌeksaxeɾˈaɾ."
+],
+[
+"La ciudad estaba alarmada por el terremoto.",
+"la θjuðˈad estˈaβa ˌalaɾmˈaða poɾ el tˌeremˈoto."
+],
+[
+"Ve y dale una paliza a ese matón.",
+"bˈe i ðˈale ˈuna palˈiθa a ˈese matˈon."
+],
+[
+"Aspiré el polvo del suelo con una aspiradora.",
+"ˌaspiɾˈe el pˈolβo ðel swˈelo kon ˈuna ˌaspiɾaðˈoɾa."
+],
+[
+"Trato de dormir bien.",
+"tɾˈato ðe ðoɾmˈiɾ βjˈen."
+],
+[
+"Nadie conoce a Tom como yo.",
+"nˈaðje konˈoθe a tˈom kˌomo ʝˈo."
+],
+[
+"Ningún remedio puede curar esta enfermedad.",
+"niŋɡˈun remˈeðjo pwˈeðe kuɾˈaɾ ˈesta ˌenfeɾmeðˈad."
+],
+[
+"No valen medias tintas. Hay que hacer cambios radicales.",
+"nˈo βˈalen mˈeðjas tˈintas. ˈaɪ ke aθˈeɾ kˈambjos rˌaðikˈales."
+],
+[
+"Tus bromas no son divertidas.",
+"tus βɾˈomas nˈo sˈon dˌiβeɾtˈiðas."
+],
+[
+"Este tiempo busca nuevas ideas.",
+"ˈeste tjˈempo βˈuska nwˈeβas iðˈeas."
+],
+[
+"Decidí seguir haciendo eso.",
+"dˌeθiðˈi seɣˈiɾ aθjˈɛndo ˈeso."
+],
+[
+"Ibarra sumó las dos cantidades en vez de restarlas.",
+"iβˈara sumˈo las ðˈos kˌantiðˈaðes en bˈeθ ðe restˈaɾlas."
+],
+[
+"¿Reconoces a alguien?",
+"rˌekonˈoθes a ˈalɣjen?"
+],
+[
+"La carne queda menos seca cuando se cocina en el horno a bajas temperaturas.",
+"la kˈaɾne kˈeða mˈenos sˈeka kwˌando se koθˈina en el ˈoɾno a βˈaxas tˌempeɾatˈuɾas."
+],
+[
+"Hoy se corre la Gran Polla del Presidente.",
+"ˈoɪ se kˈore la ɣɾˈan pˈoʎa ðel pɾˌesiðˈɛnte."
+],
+[
+"Mis vacaciones de verano se están acabando.",
+"mis βˌakaθjˈones ðe βeɾˈano se estˈan ˌakaβˈando."
+],
+[
+"Estoy seguro de que ganará.",
+"estˈoɪ seɣˈuɾo ðe ke ɣˌanaɾˈa."
+],
+[
+"Tom no sabía cómo reaccionar.",
+"tˈom nˈo saβˈia kˈomo rˌeakθjonˈaɾ."
+],
+[
+"Dijo que se levantaba todos los días a las seis.",
+"dˈixo ke se lˌeβantˈaβa tˈoðos los ðˈias a las sˈeɪs."
+],
+[
+"No puedo decírtelo todavía.",
+"nˈo pwˈeðo ðeθˈiɾtelo tˌoðaβˈia."
+],
+[
+"Este es el peor de todos.",
+"ˈeste ˈes el peˈoɾ ðe tˈoðos."
+],
+[
+"No quería hacerle daño a Tom.",
+"nˈo keɾˈia aθˈeɾle ðˈaɲo a tˈom."
+],
+[
+"El video juego emocionante tomó toda mi atención.",
+"el βiðˈeo xwˈeɣo ˌemoθjonˈante tomˈo tˈoða mi ˌatenθjˈon."
+],
+[
+"Me pregunto por qué Tom me dijo que yo necesitaba hacer eso.",
+"me pɾeɣˈunto poɾ kˈe tˈom me ðˈixo ke ʝˈo nˌeθesitˈaβa aθˈeɾ ˈeso."
+],
+[
+"La salud es más importante que el oro.",
+"la salˈud ˈes mˈas ˌimpoɾtˈante ke el ˈoɾo."
+],
+[
+"Ella escribió un libro sobre las aves.",
+"ˈeʎa ˌeskɾiβjˈo ˈun lˈiβɾo sˌoβɾe las ˈaβes."
+],
+[
+"Pensé que éramos amigos.",
+"pensˈe ke ˈeɾamos amˈiɣos."
+],
+[
+"Ella prefiere los cereales integrales.",
+"ˈeʎa pɾefjˈeɾe los θˌeɾeˈales ˌinteɣɾˈales."
+],
+[
+"¿Cómo aprendiste a dibujar tan bien?",
+"kˈomo ˌapɾendˈiste a ðˌiβuxˈaɾ tan bjˈen?"
+],
+[
+"Quiero que estés aquí.",
+"kjˈeɾo ke estˈes akˈi."
+],
+[
+"La temperatura es muy superior a la de ayer.",
+"la tˌempeɾatˈuɾa ˈes mˈuj sˌupeɾjˈoɾ a la ðe aʝˈeɾ."
+],
+[
+"Es mi vecino de al lado.",
+"ˈes mi βeθˈino ðe al lˈaðo."
+],
+[
+"El juez no está nada convencido.",
+"el xwˈeθ nˈo estˈa nˈaða kˌombenθˈiðo."
+],
+[
+"¿Lo has hecho tú sola?",
+"lo ˈas ˈeʧo tˈu sˈola?"
+],
+[
+"¿Acaso solo quieres jugar conmigo?",
+"akˈaso sˈolo kjˈeɾes xuɣˈaɾ konmˈiɣo?"
+],
+[
+"El ruibarbo es una verdura.",
+"el rˌuiβˈaɾβo ˈes ˈuna βeɾðˈuɾa."
+],
+[
+"¿Cuándo irás a Japón?",
+"kwˈando iɾˈas a xapˈon?"
+],
+[
+"Todos los vehículos policiales fueron equipados con vidrios blindados.",
+"tˈoðos los βeˈikulos pˌoliθjˈales fwˈeɾon ˌekipˈaðos kon bˈiðɾios βlindˈaðos."
+],
+[
+"Ojalá pudiera ir hoy contigo.",
+"ˌoxalˈa puðjˈeɾa ˈiɾ ˈoɪ kontˈiɣo."
+],
+[
+"Ingles no es un idioma, son unas partes del cuerpo.",
+"ˈiŋɡles nˈo ˈes ˈun iðjˈoma, sˈon ˈunas pˈaɾtes ðel kwˈeɾpo."
+],
+[
+"No quiero arruinar todo.",
+"nˈo kjˈeɾo ˌaruinˈaɾ tˈoðo."
+],
+[
+"Me gusta sentarme por el lado de la ventana.",
+"me ɣˈusta sentˈaɾme poɾ el lˈaðo ðe la βentˈana."
+],
+[
+"Necesitan resolver este asunto.",
+"nˌeθesˈitan rˌesolβˈeɾ ˈeste asˈunto."
+],
+[
+"Hay muchos portugueses que hablan español, mejor o peor, sin que incluso hayan necesitado estudiarlo.",
+"ˈaɪ mˈuʧos pˌoɾtuɣˈeses ke ˈaβlan ˌespaɲˈol, mexˈoɾ o peˈoɾ, sin ke inklˈuso ˈaʝan nˌeθesitˈaðo ˌestuðjˈaɾlo."
+],
+[
+"A Tom le gustará eso que habéis hecho.",
+"a tˈom le ɣˌustaɾˈa ˈeso ke aβˈeis ˈeʧo."
+],
+[
+"Si no fuera por algunos que los crían, hace tiempo que habrían desaparecido los burros en España.",
+"si nˈo fwˈeɾa poɾ alɣˈunos ke los kɾˈian, ˈaθe tjˈempo ke aβɾˈian dˌesapˌaɾeθˈiðo los βˈuros en espˈaɲa."
+],
+[
+"Me encanta el olor a ajo.",
+"me enkˈanta el olˈoɾ a ˈaxo."
+],
+[
+"\"¿Qué has hecho con los cuatro yogures?\" \"Uno me lo he comido y los otros tres los he guardado en el frigo.\"",
+"kˈe ˈas ˈeʧo kon los kwˈatɾo ʝoɣˈuɾes? ˈuno me lo ˈe komˈiðo i los ˈotɾos tɾˈes los ˈe ɣwaɾðˈaðo en el fɾˈiɣo."
+],
+[
+"Cierra los ojos y cuenta hasta diez.",
+"θjˈera los ˈoxos i kwˈɛnta ˌasta ðjˈeθ."
+],
+[
+"Lo haré yo solo la próxima vez.",
+"lo aɾˈe ʝˈo sˈolo la pɾˈoksima βˈeθ."
+],
+[
+"Esta es una historia tan interesante que nunca la olvidaré.",
+"ˈesta ˈes ˈuna istˈoɾja tan ˌinteɾesˈante ke nˈunka la ˌolβiðaɾˈe."
+],
+[
+"Es bueno ver que algunas cosas nunca cambian.",
+"ˈes βwˈeno βˈeɾ ke alɣˈunas kˈosas nˈunka kˈambjan."
+],
+[
+"Acuérdate de sacar los calamares del congelador.",
+"akwˈeɾðate ðe sakˈaɾ los kˌalamˈaɾes ðel kˌoŋxelaðˈoɾ."
+],
+[
+"Haré el esfuerzo de levantarme temprano cada mañana.",
+"aɾˈe el esfwˈeɾθo ðe lˌeβantˈaɾme tempɾˈano kˈaða maɲˈana."
+],
+[
+"Me gusta jugar con las palabras.",
+"me ɣˈusta xuɣˈaɾ kon las palˈaβɾas."
+],
+[
+"Tom encontró una billetera en el camión abandonado.",
+"tˈom ˌenkontɾˈo ˈuna βˌiʎetˈeɾa en el kamjˈon ˌaβandonˈaðo."
+],
+[
+"¿Me avisás cuando él llegue?",
+"me ˌaβisˈas kwˌando ˈel ʎˈeɣe?"
+],
+[
+"Él es capaz de hablar japonés.",
+"ˈel ˈes kapˈaθ ðe aβlˈaɾ xˌaponˈes."
+],
+[
+"Le dirás dónde te duele.",
+"le ðiɾˈas ðˈonde te ðwˈele."
+],
+[
+"Tom experimentó una fuerte presión de sus compañeros para meterse en drogas cuando era un adolescente.",
+"tˈom ˌekspeɾˌimentˈo ˈuna fwˈeɾte pɾesjˈon de sus kˌompaɲˈeɾos pˌaɾa metˈeɾse en dɾˈoɣas kwˌando ˈeɾa ˈun ˌaðolesθˈɛnte."
+],
+[
+"Nada de lo que vemos o pensamos es real.",
+"nˈaða ðe lo ke βˈemos o pensˈamos ˈes reˈal."
+]
+],
+"it": [
+[
+"Persino Tom e Mary erano sorpresi.",
+"persˈino tˈɔm e mˈɛri ˈɛrano sorprˈezɪ."
+],
+[
+"Tu hai avuto ragione.",
+"tˈu aɪ avˈuto raʤˈone."
+],
+[
+"Dicci per quale motivo li hai uccisi.",
+"dˈiʧːɪ per kwˈale motˈivo lˈi aɪ ʊʧːˈizɪ."
+],
+[
+"Questo è conosciuto soltanto da Obama.",
+"kwˈesto ɛ konoʃˈuto soltˈanto da obˈama."
+],
+[
+"In un giorno loro erano in Francia.",
+"in ʊn ʤˈorno lˈoro ˈɛrano in frˈanʧa."
+],
+[
+"Credo che Tom la stia cercando.",
+"krˈedo ke tˈɔm la stˈia ʧerkˈando."
+],
+[
+"Fu portato via dalla passione.",
+"fˈu portˈato vˈia dˌalla passjˈone."
+],
+[
+"Non si sa ancora niente.",
+"non sɪ sˈa aŋkˈora njˈɛnte."
+],
+[
+"Qual è la specialità del ristorante?",
+"kwˈal ɛ la speʧalitˈa del ristorˈante?"
+],
+[
+"Sembra che Tom abbia un alibi per la notte in cui è stata uccisa Mary.",
+"sˈembra ke tˈɔm ˈabːia ʊn alˈibɪ per la nˈɔtːe in kˈui ɛ stˈata ʊʧːˈiza mˈɛri."
+],
+[
+"Ne ho sentito parlare molto bene.",
+"ne ˈɔ sentˈito parlˈare mˈolto bˈɛne."
+],
+[
+"Vorrei poter girare il mondo.",
+"vorɾˈɛi potˈer ʤirˈare il mˈondo."
+],
+[
+"Tom è un oratore eccellente.",
+"tˈɔm ɛ ʊn oratˈore eʧːellˈɛnte."
+],
+[
+"Qual è la risposta giusta?",
+"kwˈal ɛ la rispˈosta ʤˈusta?"
+],
+[
+"Deve mettere un po' di ghiaccio sulla caviglia per contenere il gonfiore.",
+"dˈeve mˈɛtːere ʊn pˈɔ dɪ ɡjˈaʧːo sˌʊlla kavˈiʎa per kontenˈere il ɡonfjˈore."
+],
+[
+"Tom non ha idea di chi sia Mary.",
+"tˈɔm non a idˈɛa dɪ kˈi sˈia mˈɛri."
+],
+[
+"Ha preso i biglietti?",
+"a prˈezo i biʎˈetːɪ?"
+],
+[
+"La tenne contro di sé.",
+"la tˈɛnne kˈontro dɪ sˈe."
+],
+[
+"I grandi aerei portano un grande inquinamento sonoro.",
+"i ɡrˈandɪ aˈɛrei pˈɔrtano ʊn ɡrˈande inkwinamˈento sonˈɔro."
+],
+[
+"Mi spiegate a cosa serve?",
+"mɪ spjeɡˈate a kˈɔza sˈɛrve?"
+],
+[
+"Ho solo un giorno di ferie.",
+"ˈɔ sˈolo ʊn ʤˈorno dɪ fˈɛrie."
+],
+[
+"Questa notizia mi ha cambiato il weekend.",
+"kwˈesta notˈitsja mɪ a kambjˈato il wˈikɛnd."
+],
+[
+"Sono già stanco di esserci.",
+"sˈono ʤˈa stˈanko dɪ ˈɛsserʧɪ."
+],
+[
+"Non ce lo possiamo più permettere.",
+"non ʧe lo possjˈamo pjˈu permˈetːere."
+],
+[
+"Tutti gli uomini hanno gli stessi diritti.",
+"tˈutːɪ ʎɪ wˈɔminɪ anno ʎɪ stˈessɪ dirˈitːɪ."
+],
+[
+"Ieri sera ci siamo abbuffati di pizza davanti alla TV.",
+"jˈerɪ sˈera ʧɪ sjˈamo abːʊffˈatɪ dɪ pˈitsːa davˈantɪ ˌalla tˌivˈu."
+],
+[
+"Siete state avvisate.",
+"sjˈɛte stˈate avvizˈate."
+],
+[
+"Quale è il suo vero scopo?",
+"kwˈale ɛ il sˈuo vˈero skˈɔpo?"
+],
+[
+"Disse che non era pronto a farlo.",
+"dˈisse ke non ˈɛra prˈonto a fˈarlo."
+],
+[
+"Tom ha fatto accompagnare Mary all'aeroporto dal suo autista.",
+"tˈɔm a fˈatːo akːompaɲˈare mˈɛri allaeropˈɔrto dal sˈuo aʊtˈista."
+],
+[
+"Tom di solito arriva a casa alle sei.",
+"tˈɔm dɪ sˈɔlito arɾˈiva a kˈaza ˌalle sˈɛi."
+],
+[
+"Voi mi avete aiutato.",
+"vˈoi mɪ avˈete ajʊtˈato."
+],
+[
+"Il servizio sanitario nazionale era lungi dall’essere adeguato.",
+"il servˈitsjo sanitˈario natsionˈale ˈɛra lˈunʤɪ dallˈɛssere adeɡwˈato."
+],
+[
+"Le rose rampicanti del giardino erano in piena fioritura.",
+"le rˈɔze rampikˈantɪ del ʤardˈino ˈɛrano in pjˈɛna fjoritˈura."
+],
+[
+"Non andiamo a fare amicizie in Austria.",
+"non andjˈamo a fˈare amiʧˈitsje in aˈustria."
+],
+[
+"Ho cercato di fargli cambiare idea ma non ci sono riuscito.",
+"ˈɔ ʧerkˈato dɪ fˈarʎɪ kambjˈare idˈɛa ma non ʧɪ sˈono riʊʃˈito."
+],
+[
+"Ti voglio bene lo stesso!",
+"tɪ vˈɔʎo bˈɛne lo stˈesso!"
+],
+[
+"Tom ha incontrato una bella ragazza alla festa.",
+"tˈɔm a inkontrˈato ˌʊna bˈɛlla raɡˈatsːa ˌalla fˈɛsta."
+],
+[
+"Io gli ho chiesto se mi avrebbe aiutata.",
+"ˈio ʎɪ ˈɔ kjˈɛsto se mɪ avrˈɛbːe ajʊtˈata."
+],
+[
+"La tradizione dell'arazzo risale a tempi antichi, quando veniva utilizzato per decorare palazzi e castelli.",
+"la traditsiˈone dellarˈatsːo rizˈale a tˈɛmpɪ antˈikɪ, kwˈando venˈiva ʊtiliʣːˈato per dekorˈare palˈatsːɪ e kastˈɛllɪ."
+],
+[
+"Helen tiene la sua stanza pulita.",
+"ˈɛlen tjˈɛne la sˈua stˈantsa pʊlˈita."
+],
+[
+"L'aroma dell'ananas si diffondeva nell'aria mentre tagliavo la frutta.",
+"larˈɔma dellanˈanas sɪ diffondˈeva nellˈaria mˈentre taʎˈavo la frˈutːa."
+],
+[
+"Lei può accompagnarvi?",
+"lˈɛi pwˈɔ akːompaɲˈarvɪ?"
+],
+[
+"Io ho trascorso l'intera serata a parlare con Tom.",
+"ˈio ˈɔ traskˈorso lintˈɛra serˈata a parlˈare kon tˈɔm."
+],
+[
+"Penso che non andrete per svago in Asia.",
+"pˈɛnso ke non andrˈete per zvˈaɡo in ˈazia."
+],
+[
+"Tom dice che lo fanno tutti.",
+"tˈɔm dˈiʧe ke lo fˈanno tˈutːɪ."
+],
+[
+"Lo guardò con curiosità.",
+"lo ɡwardˈɔ kon kʊriozitˈa."
+],
+[
+"Penso che andrete per lavoro in Islanda.",
+"pˈɛnso ke andrˈete per lavˈoro in izlˈanda."
+],
+[
+"C'è qualcosa che non fa?",
+"ʧˈɛ kwalkˈɔza ke non fˈa?"
+],
+[
+"Lei voleva andare, però non l'ha fatto.",
+"lˈɛi volˈeva andˈare, perˈɔ non la fˈatːo."
+],
+[
+"Lui non può leggerlo.",
+"lˈui non pwˈɔ lˈɛʤːerlo."
+],
+[
+"Lo farai di nuovo, ne sono sicura.",
+"lo farˈai dɪ nwˈɔvo, ne sˈono sikˈura."
+],
+[
+"Non state studiando ginnastica?",
+"non stˈate stʊdjˈando ʤinnˈastika?"
+],
+[
+"Non riescono a fermare tre barconi?",
+"non riˈɛskono a fermˈare trˈe barkˈonɪ?"
+],
+[
+"C'è una bottiglia nel frigorifero.",
+"ʧˈɛ ˌʊna botːˈiʎa nel friɡorifˈero."
+],
+[
+"Io sono uno studente.",
+"ˈio sˈono ˌʊno stʊdˈɛnte."
+],
+[
+"Perché odi te stesso?",
+"perkˈe ˈɔdɪ te stˈesso?"
+],
+[
+"Ho come la sensazione che qualcuno mi stia osservando.",
+"ˈɔ kˈome la sensatsiˈone ke kwalkˈuno mɪ stˈia osservˈando."
+],
+[
+"È stato ferito in guerra.",
+"ɛ stˈato ferˈito in ɡwˈɛrɾa."
+],
+[
+"È nuvoloso, ma non sta nevicando.",
+"ɛ nʊvolˈozo, ma non stˈa nevikˈando."
+],
+[
+"Il folklore italiano è tramandato da generazione in generazione attraverso le narrazioni orali.",
+"il folklˈore italiˈano ɛ tramandˈato da ʤeneratsiˈone in ʤeneratsiˈone atːravˈɛrso le narɾatsiˈonɪ orˈalɪ."
+],
+[
+"Ogni giorno, il prezzo del petrolio aumenta.",
+"ˈoɲɲɪ ʤˈorno, il prˈɛtsːo del petrˈɔlio aʊmˈenta."
+],
+[
+"La prenderò più tardi.",
+"la prenderˈɔ pjˈu tˈardɪ."
+],
+[
+"Non andiamo ai giardini pubblici.",
+"non andjˈamo aɪ ʤardˈinɪ pˈubːliʧɪ."
+],
+[
+"Non mangiare in classe.",
+"non manʤˈare in klˈasse."
+],
+[
+"Penso che non andrete per soldi in Olanda.",
+"pˈɛnso ke non andrˈete per sˈɔldɪ in olˈanda."
+],
+[
+"Ho lasciato che mi catturasse.",
+"ˈɔ laʃˈato ke mɪ katːʊrˈasse."
+],
+[
+"Non stai nemmeno ascoltando.",
+"non stˈai nemmˈeno askoltˈando."
+],
+[
+"Ricorda di utilizzare questo termine in contesti informali e di scegliere parole più adatte in situazioni formali.",
+"rikˈɔrda dɪ ʊtiliʣːˈare kwˈesto tˈɛrmine in kontˈɛstɪ informˈalɪ e dɪ ʃˈeʎere parˈɔle pjˈu adˈatːe in sitʊatsiˈonɪ formˈalɪ."
+],
+[
+"Mercoledì ti farò sapere.",
+"merkoledˈi tɪ farˈɔ sapˈere."
+],
+[
+"L'hai trovato a Londra?",
+"laɪ trovˈato a lˈondra?"
+],
+[
+"Dobbiamo meravigliarci.",
+"dobːjˈamo meraviʎˈarʧɪ."
+],
+[
+"Loro lavorano otto ore al giorno.",
+"lˈoro lavˈorano ˈɔtːo ˈore al ʤˈorno."
+],
+[
+"Non accompagnerò i bambini a scuola.",
+"non akːompaɲerˈɔ i bambˈinɪ a skʊˈɔla."
+],
+[
+"La dagherrotipia è molto antica.",
+"la daɡerɾotˈipia ɛ mˈolto antˈika."
+],
+[
+"Per favore, informi Tom.",
+"per favˈore, infˈormɪ tˈɔm."
+],
+[
+"Sami e Layla litigavano molto.",
+"sˈamɪ e lˈaila litiɡˈavano mˈolto."
+],
+[
+"Ero presente alla riunione.",
+"ˈɛro prezˈɛnte ˌalla riʊnjˈone."
+],
+[
+"\"Di che nazionalità erano i loro fratelli?\" \"Finlandese.\"",
+"dɪ ke natsionalitˈa ˈɛrano i lˈoro fratˈɛllɪ? finlandˈeze."
+],
+[
+"Per favore, aspettate cinque minuti.",
+"per favˈore, aspetːˈate ʧˈinkwe minˈutɪ."
+],
+[
+"Tom per me è come un figlio.",
+"tˈɔm per me ɛ kˈome ʊn fˈiʎo."
+],
+[
+"Fa sentire tutti a loro agio.",
+"fˈa sentˈire tˈutːɪ a lˈoro ˈaʤo."
+],
+[
+"Credete a tutto quello che vi dice Tom?",
+"kredˈete a tˈutːo kwˈello ke vɪ dˈiʧe tˈɔm?"
+],
+[
+"Gli astronomi usano il latino per dare un nome ai corpi celesti.",
+"ʎɪ astrˈɔnomɪ ˈuzano il latˈino per dˈare ʊn nˈome aɪ kˈɔrpɪ ʧelˈɛstɪ."
+],
+[
+"Io non lavorerò mai per lei.",
+"ˈio non lavorerˈɔ mˈai per lˈɛi."
+],
+[
+"Comprai questo per noi.",
+"komprˈai kwˈesto per nˈoi."
+],
+[
+"Sami non vi ha detto niente.",
+"sˈamɪ non vɪ a dˈetːo njˈɛnte."
+],
+[
+"Ecco il ragazzo a cui penso.",
+"ˈɛkːo il raɡˈatsːo a kˈui pˈɛnso."
+],
+[
+"Il vostro lavoro non è facile.",
+"il vˈɔstro lavˈoro non ɛ fˈaʧile."
+],
+[
+"Ci avevo già pensato.",
+"ʧɪ avˈevo ʤˈa pensˈato."
+],
+[
+"Penso che Tom sia di cattivo umore.",
+"pˈɛnso ke tˈɔm sˈia dɪ katːˈivo ʊmˈore."
+],
+[
+"I cani del nostro vicino mi morsero.",
+"i kˈanɪ del nˈɔstro viʧˈino mɪ morsˈero."
+],
+[
+"È in una riunione, vero?",
+"ɛ in ˌʊna riʊnjˈone, vˈero?"
+],
+[
+"Voleva arrivare in cima alle scale prima di me, ma ho vinto io.",
+"volˈeva arɾivˈare in ʧˈima ˌalle skˈale prˈima dɪ me, ma ˈɔ vˈinto ˈio."
+],
+[
+"Io ho comprato il libro ieri.",
+"ˈio ˈɔ komprˈato il lˈibro jˈerɪ."
+],
+[
+"Hai preso l'asciugacapelli?",
+"aɪ prˈezo laʃʊɡakapˈellɪ?"
+],
+[
+"Ho visto che Tom era ubriaco.",
+"ˈɔ vˈisto ke tˈɔm ˈɛra ʊbriˈako."
+],
+[
+"Io sono un musicista.",
+"ˈio sˈono ʊn mʊziʧˈista."
+],
+[
+"Ecco, usi la mia chiave.",
+"ˈɛkːo, ˈuzɪ la mˈia kjˈave."
+],
+[
+"Lui ha vissuto all'estero per molti anni.",
+"lˈui a vissˈuto allˈɛstero per mˈoltɪ ˈannɪ."
+]
+],
+"ru": [
+[
+"На замёрзшей дороге виднелись следы.",
+"nˈa zɐmʲˈɵrʂːɨj dɐrˈoɡʲe vʲɪdʲnʲˈelʲɪsʲ sʲlʲɪdˈɨ."
+],
+[
+"В искренности его слов сомневаться не приходится.",
+"v ˈiskrʲɪnːəsʲtʲɪ jɪvˈo sɫof səmnʲɪvˈaʦːə nʲe prʲɪxˈodʲɪʦə."
+],
+[
+"Дед Мороз - вымышленный персонаж.",
+"dʲet mɐrˈos vˈɨmɨʂlʲɪnːɨj pʲɪrsɐnˈaʂ."
+],
+[
+"Всё, что мы сейчас можем, - это ждать и смотреть, что делает Том.",
+"fsʲˈɵ, ʂto mɨ sʲɪjʧˈas mˈoʐɨm, ˈɛtə ʐdatʲ i smɐtrʲˈetʲ, ʂto dʲˈeɫəjɪt tom."
+],
+[
+"Кто-то опять из моего стакана пил.",
+"kto tˈo ɐpʲˈætʲ is məjɪvˈo stɐkˈanə pʲiɫ."
+],
+[
+"Холодильник не охлаждает.",
+"xəɫɐdʲˈilʲnʲɪk nʲe ɐxɫɐʐdˈajɪt."
+],
+[
+"Она пошла покупать ручку.",
+"ɐnˈa pɐʂɫˈa pəkʊpˈatʲ rˈuʧkʊ."
+],
+[
+"Мы заставляли её страдать.",
+"mɨ zəstɐvlʲˈælʲɪ jɪˈjɵ strɐdˈatʲ."
+],
+[
+"Она говорит, что выиграет.",
+"ɐnˈa ɡəvɐrʲˈit, ʂto vˈɨɪɡrəjɪt."
+],
+[
+"То, что не получилось у меня, получится у вас.",
+"tˈo, ʂto nʲe pəɫʊʧˈiɫəsʲ u mʲɪnʲˈa, pɐɫˈuʧɪʦə u vas."
+],
+[
+"Этот мальчик поднимает руку, чтобы задать вопрос.",
+"ˈɛtət mˈalʲʧɪk pədʲnʲɪmˈajɪt rˈukʊ, ʂtˈobɨ zɐdˈatʲ vɐprˈos."
+],
+[
+"Интересно, почему они вычеркнули моё имя из списка.",
+"ɪnʲtʲɪrʲˈesnə, pəʧɪmˈu ɐnʲˈi vˈɨʧɪrknʊlʲɪ mɐˈjɵ ˈimʲə is spʲˈiskə."
+],
+[
+"Вы всегда думали только о себе.",
+"vɨ fsʲɪɡdˈa dˈuməlʲɪ tˈolʲkə ˈo sʲɪbʲˈe."
+],
+[
+"Я не успел его разглядеть.",
+"ja nʲe ʊspʲˈeɫ jɪvˈo rəzɡlʲɪdʲˈetʲ."
+],
+[
+"Том никогда не простит вас, если вы это сделаете.",
+"tom nʲɪkɐɡdˈa nʲe prɐsʲtʲˈit vas, ˈjesʲlʲɪ vɨ ˈɛtə zʲdʲˈeɫəjɪtʲe."
+],
+[
+"Ты хоть знаешь, сколько времени?",
+"tɨ xˈotʲ znˈajɪʂ, skˈolʲkə vrʲˈemʲɪnʲɪ?"
+],
+[
+"Покажи мне, что ты умеешь.",
+"pəkɐʐˈɨ mnʲe, ʂto tɨ ʊmʲˈejɪʂ."
+],
+[
+"У меня болезнь сердца.",
+"u mʲɪnʲˈa bɐlʲˈezʲnʲ sʲˈerʦə."
+],
+[
+"Вы уже решили задачу?",
+"vɨ ʊʐˈɛ rʲɪʂˈɨlʲɪ zɐdˈaʧʊ?"
+],
+[
+"У меня та же проблема, что и у Тома.",
+"u mʲɪnʲˈa ta ʐɨ prɐblʲˈemə, ʂto i u tˈomə."
+],
+[
+"Мне нужно поговорить с ним наедине.",
+"mnʲe nˈuʐnə pəɡəvɐrʲˈitʲ s nʲim nəjɪdʲɪnʲˈe."
+],
+[
+"Она повернула к нему свой точёный носик и презрительно фыркнула.",
+"ɐnˈa pəvʲɪrnˈuɫə k nʲɪmˈu svoj tɐʧˈɵnɨj nˈosʲɪk i prʲɪzrʲˈitʲɪlʲnə fˈɨrknʊɫə."
+],
+[
+"Годы над ним не властны.",
+"ɡˈodɨ nat nʲim nʲe vɫˈasnɨ."
+],
+[
+"Одноразовые стаканы в школе запрещены.",
+"ɐdnɐrˈazəvɨje stɐkˈanɨ v ʂkˈolʲe zəprʲɪɕːɪnˈɨ."
+],
+[
+"Я полюбил Вас с первого взгляда.",
+"ja pəlʲʉbʲˈiɫ vas s pʲˈervəvə vzɡlʲˈadə."
+],
+[
+"Соединяем Вас с оператором.",
+"səjɪdʲɪnʲˈæjɪm vas s ɐpʲɪrˈatərəm."
+],
+[
+"Том разговаривает с друзьями.",
+"tom rəzɡɐvˈarʲɪvəjɪt s drʊzʲˈjæmʲɪ."
+],
+[
+"Я не хочу ничего слышать о Томе.",
+"ja nʲe xɐʧˈu nʲɪʧɪvˈo sɫˈɨʂətʲ ˈo tˈomʲe."
+],
+[
+"Тебе денег-то хватит?",
+"tʲɪbʲˈe dʲˈenʲɪk tˈo xvˈatʲɪt?"
+],
+[
+"Уровень персонажа повышен.",
+"ˈurəvʲɪnʲ pʲɪrsɐnˈaʐə pɐvˈɨʂɨn."
+],
+[
+"Надеюсь встретиться с тобой, когда ты будешь в Токио в следующий раз.",
+"nɐdʲˈejʉsʲ fstrʲˈetʲɪʦə s tɐbˈoj, kɐɡdˈa tɨ bˈudʲɪʂ v tˈokʲɪə v sʲlʲˈedʊjʉɕːɪj ras."
+],
+[
+"Вот и довелось нам свидеться.",
+"vot i dəvʲɪɫˈosʲ nam svʲˈidʲɪʦə."
+],
+[
+"Мы нашли в лесу ёжика.",
+"mɨ nɐʂlʲˈi v lʲɪsˈu ˈjɵʐɨkə."
+],
+[
+"Спокойной ночи, малыши.",
+"spɐkˈojnəj nˈoʧɪ, məɫɨʂˈɨ."
+],
+[
+"Я вошёл в комнату и пожал ему руку.",
+"ja vɐʂˈoɫ v kˈomnətʊ i pɐʐˈaɫ jɪmˈu rˈukʊ."
+],
+[
+"Он так по-настоящему и не оправился после её смерти.",
+"on tak pˈo nəstɐˈjæɕːɪmʊ i nʲe ɐprˈavʲɪɫsʲə pˈosʲlʲe jɪˈjɵ smʲˈertʲɪ."
+],
+[
+"То, что он говорит, кажется мне очень разумным.",
+"tˈo, ʂto on ɡəvɐrʲˈit, kˈaʐɨʦə mnʲe ˈoʧɪnʲ rɐzˈumnɨm."
+],
+[
+"«Как давно вы в Стамбуле? Ваш турецкий очень хорош». — «Я здесь уже два года. Город прекрасный, и я приехал сюда, чтобы хорошо выучить язык».",
+"kak dɐvnˈo vɨ v stɐmbˈulʲe? vaʂ tʊrʲˈeʦkʲɪj ˈoʧɪnʲ xɐrˈoʂ. ja zʲdʲesʲ ʊʐˈɛ dva ɡˈodə. ɡˈorət prʲɪkrˈasnɨj, i ja prʲɪˈjexəɫ sʲʊdˈa, ʂtˈobɨ xərɐʂˈo vˈɨʊʧɪtʲ jɪzˈɨk."
+],
+[
+"Я сделаю это в следующие выходные.",
+"ja zʲdʲˈeɫəjʊ ˈɛtə v sʲlʲˈedʊjʉɕːɪje vɨxɐdnˈɨje."
+],
+[
+"Вы когда-нибудь видели, как разводят мосты?",
+"vɨ kɐɡdˈa nʲɪbʊtʲ vʲˈidʲɪlʲɪ, kak rɐzvˈodʲət mɐstˈɨ?"
+],
+[
+"Ты знаешь, а ведь она права.",
+"tɨ znˈajɪʂ, ˈa vʲetʲ ɐnˈa prɐvˈa."
+],
+[
+"Мне она как-то сразу не понравилась.",
+"mnʲe ɐnˈa kak tˈo srˈazʊ nʲe pɐnrˈavʲɪɫəsʲ."
+],
+[
+"Почему здесь так холодно?",
+"pəʧɪmˈu zʲdʲesʲ tak xˈoɫədnə?"
+],
+[
+"Скажите ему, чтобы ни с кем не разговаривал.",
+"skɐʐˈɨtʲe jɪmˈu, ʂtˈobɨ nʲi s kʲem nʲe rəzɡɐvˈarʲɪvəɫ."
+],
+[
+"\"Простите!\" - \"Это ты меня прости\".",
+"prɐsʲtʲˈitʲe! ˈɛtə tɨ mʲɪnʲˈa prɐsʲtʲˈi."
+],
+[
+"Это потрясающая идея.",
+"ˈɛtə pətrʲɪsˈajʉɕːɪjə ɪdʲˈejə."
+],
+[
+"Делайте с ней, что хотите.",
+"dʲˈeɫəjtʲe s nʲej, ʂto xɐtʲˈitʲe."
+],
+[
+"Можете и дальше пребывать в счастливом неведении.",
+"mˈoʐɨtʲe i dˈalʲʂɨ prʲɪbɨvˈatʲ v ɕːɪslʲˈivəm nʲɪvʲˈedʲɪnʲɪɪ."
+],
+[
+"Мне пришлось убрать тату.",
+"mnʲe prʲɪʂɫˈosʲ ʊbrˈatʲ tɐtˈu."
+],
+[
+"Он никогда не отказывался от вызова. Он брался за задачи, которые казались невыполнимыми.",
+"on nʲɪkɐɡdˈa nʲe ɐtkˈazɨvəɫsʲə ot vˈɨzəvə. on brˈaɫsʲə za zɐdˈaʧɪ, kɐtˈorɨje kɐzˈalʲɪsʲ nʲɪvɨpɐɫnʲˈimɨmʲɪ."
+],
+[
+"Том в оранжевом свитере.",
+"tom v ɐrˈanʐɨvəm svʲˈitɨrʲe."
+],
+[
+"Том вообще не умеет плавать.",
+"tom vɐɐpɕːˈe nʲe ʊmʲˈejɪt pɫˈavətʲ."
+],
+[
+"Том не спросил Мэри, с кем она планирует поехать в Бостон.",
+"tom nʲe sprɐsʲˈiɫ mˈɛrʲɪ, s kʲem ɐnˈa pɫɐnʲˈirʊjɪt pɐˈjexətʲ v bˈostən."
+],
+[
+"Прощай, две тысячи шестнадцатый.",
+"prɐɕːˈæj, dvʲe tˈɨsʲɪʧɪ ʂɨsnˈaʦːətɨj."
+],
+[
+"Эта мышка внезапно перестала работать.",
+"ˈɛtə mˈɨʂkə vnʲɪzˈapnə pʲɪrʲɪstˈaɫə rɐbˈotətʲ."
+],
+[
+"Можем сходить вместе, если хочешь.",
+"mˈoʐɨm sxɐdʲˈitʲ vmʲˈesʲtʲe, ˈjesʲlʲɪ xˈoʧɪʂ."
+],
+[
+"Я не смог нигде найти Тома.",
+"ja nʲe smok nʲɪɡdʲˈe nɐjtʲˈi tˈomə."
+],
+[
+"Том вошёл не постучавшись.",
+"tom vɐʂˈoɫ nʲe pəstʊʧˈafʂɨsʲ."
+],
+[
+"Я что-то такого не припомню.",
+"ja ʂto tˈo tɐkˈovə nʲe prʲɪpˈomnʲʊ."
+],
+[
+"Скажите Тому, что я буду там завтра.",
+"skɐʐˈɨtʲe tɐmˈu, ʂto ja bˈudʊ tam zˈaftrə."
+],
+[
+"Том что, никогда часы не носит?",
+"tom ʂto, nʲɪkɐɡdˈa ʧɪsˈɨ nʲe nˈosʲɪt?"
+],
+[
+"Мы точно не знаем, что Том сделал.",
+"mɨ tˈoʧnə nʲe znˈajɪm, ʂto tom zʲdʲˈeɫəɫ."
+],
+[
+"Надеюсь, это было не слишком скучно.",
+"nɐdʲˈejʉsʲ, ˈɛtə bˈɨɫə nʲe sʲlʲˈiʂkəm skˈuʂnə."
+],
+[
+"Она адаптировала методику обучения к отстающим ученикам.",
+"ɐnˈa ɐdɐptʲˈirəvəɫə mʲɪtˈodʲɪkʊ ɐbʊʧˈenʲɪjə k ɐʦstɐˈjʉɕːɪm ʊʧɪnʲɪkˈam."
+],
+[
+"Ты теряешь связь с реальностью?",
+"tɨ tʲɪrʲˈæjɪʂ svʲæsʲ s rʲɪˈalʲnəsʲtʲjʊ?"
+],
+[
+"Думаю, что было бы веселее идти туда вместе.",
+"dˈuməjʊ, ʂto bˈɨɫə bɨ vʲɪsʲɪlʲˈeje ɪtʲːˈi tʊdˈa vmʲˈesʲtʲe."
+],
+[
+"У этой компании прекрасная организация.",
+"u ˈɛtəj kɐmpˈanʲɪɪ prʲɪkrˈasnəjə ɐrɡənʲɪzˈaʦɨjə."
+],
+[
+"Не говорите этого снова.",
+"nʲe ɡəvɐrʲˈitʲe ˈɛtəvə snˈovə."
+],
+[
+"Мне ничего не покупайте.",
+"mnʲe nʲɪʧɪvˈo nʲe pəkʊpˈajtʲe."
+],
+[
+"Мэри в Бостоне с её мужем.",
+"mˈɛrʲɪ v bˈostənʲe s jɪˈjɵ mˈuʐɨm."
+],
+[
+"Меня чуть грузовик не переехал.",
+"mʲɪnʲˈa ʧʉtʲ ɡrʊzɐvʲˈik nʲe pʲɪrʲɪˈjexəɫ."
+],
+[
+"Я сказал тебе, что у меня есть девушка.",
+"ja skɐzˈaɫ tʲɪbʲˈe, ʂto u mʲɪnʲˈa jesʲtʲ dʲˈevʊʂkə."
+],
+[
+"Он, похоже, положил на тебя глаз.",
+"on, pɐxˈoʐɨ, pəɫɐʐˈɨɫ nˈa tʲɪbʲˈa ɡɫas."
+],
+[
+"Спасибо вам за подарок.",
+"spɐsʲˈibə vam za pɐdˈarək."
+],
+[
+"Не думаю, что у тебя большой выбор.",
+"nʲe dˈuməjʊ, ʂto u tʲɪbʲˈa bɐlʲʂˈoj vˈɨbər."
+],
+[
+"«Может, чаю?» — «Спасибо». — «Спасибо да или спасибо нет?»",
+"mˈoʐɨt, ʧˈæjʊ? spɐsʲˈibə. spɐsʲˈibə da ˈilʲɪ spɐsʲˈibə nʲet?"
+],
+[
+"Никому не доверяйте, даже Тому.",
+"nʲɪkɐmˈu nʲe dəvʲɪrʲˈæjtʲe, dˈaʐɨ tɐmˈu."
+],
+[
+"Я только что видел пантеру.",
+"ja tˈolʲkə ʂto vʲˈidʲɪɫ pɐnʲtʲˈerʊ."
+],
+[
+"В этом заключалась его трагедия.",
+"v ˈɛtəm zəklʲʉʧˈaɫəsʲ jɪvˈo trɐɡʲˈedʲɪjə."
+],
+[
+"Будем надеяться, что она лучше, чем первая.",
+"bˈudʲɪm nɐdʲˈejɪʦə, ʂto ɐnˈa ɫˈuʧʂɨ, ʧem pʲˈervəjə."
+],
+[
+"Те два не похожи. Они одинаковые.",
+"tʲe dva nʲe pɐxˈoʐɨ. ɐnʲˈi ɐdʲɪnˈakəvɨje."
+],
+[
+"Они обе сказали, что придут.",
+"ɐnʲˈi ˈobʲe skɐzˈalʲɪ, ʂto prʲɪdˈut."
+],
+[
+"Том играет прямо сейчас.",
+"tom ɪɡrˈajɪt prʲˈamə sʲɪjʧˈas."
+],
+[
+"Снимите, пожалуйста, шляпы.",
+"snʲɪmʲˈitʲe, pɐʐˈaɫstə, ʂlʲˈapɨ."
+],
+[
+"В деревне почти не осталось жителей.",
+"v dʲɪrʲˈevnʲe pɐʧtʲˈi nʲe ɐstˈaɫəsʲ ʐˈɨtʲɪlʲɪj."
+],
+[
+"Даже если это не невозможно, переводить шутки очень тяжело.",
+"dˈaʐɨ ˈjesʲlʲɪ ˈɛtə nʲe nʲɪvɐzmˈoʐnə, pʲɪrʲɪvɐdʲˈitʲ ʂˈutkʲɪ ˈoʧɪnʲ tʲɪʐɨɫˈo."
+],
+[
+"Почему ты не помогаешь мне?",
+"pəʧɪmˈu tɨ nʲe pəmɐɡˈajɪʂ mnʲe?"
+],
+[
+"Сколько времени ты прожил в Японии?",
+"skˈolʲkə vrʲˈemʲɪnʲɪ tɨ prˈoʐɨɫ v jɪpˈonʲɪɪ?"
+],
+[
+"Том очень хорошо учился в школе.",
+"tom ˈoʧɪnʲ xərɐʂˈo ʊʧˈiɫsʲə v ʂkˈolʲe."
+],
+[
+"Я начинаю думать, что ты права.",
+"ja nəʧɪnˈajʊ dˈumətʲ, ʂto tɨ prɐvˈa."
+],
+[
+"Я учу английский у себя в комнате.",
+"ja ʊʧˈu ɐnɡlʲˈijskʲɪj u sʲɪbʲˈa v kˈomnətʲe."
+],
+[
+"Он уже два месяца на диете.",
+"on ʊʐˈɛ dva mʲˈesʲɪʦə nˈa dʲɪˈjetʲe."
+],
+[
+"Принца заколдовала злая ведьма.",
+"prʲˈinʦə zəkəɫdɐvˈaɫə zɫˈajə vʲˈedʲmə."
+],
+[
+"Том сегодня не на службе.",
+"tom sʲɪvˈodʲnʲə nʲe nˈa sɫˈuʐbʲe."
+],
+[
+"Том и Мэри играют в покер.",
+"tom i mˈɛrʲɪ ɪɡrˈajʊt v pˈokʲɪr."
+],
+[
+"Том пьёт ромашковый чай.",
+"tom pʲjɵt rɐmˈaʂkəvɨj ʧæj."
+],
+[
+"Её брат совсем не говорит по-английски.",
+"jɪˈjɵ brat sɐfsʲˈem nʲe ɡəvɐrʲˈit pˈo ɐnɡlʲˈijskʲɪ."
+],
+[
+"Том не знает, чем масло отличается от маргарина.",
+"tom nʲe znˈajɪt, ʧem mˈasɫə ɐtlʲɪʧˈæjɪʦə ot mərɡɐrʲˈinə."
+],
+[
+"Первым делом, выучи формулу наизусть.",
+"pʲˈervɨm dʲˈeɫəm, vˈɨʊʧɪ fˈormʊɫʊ nəɪzˈusʲtʲ."
+],
+[
+"Том предложил мне пиво.",
+"tom prʲɪdɫɐʐˈɨɫ mnʲe pʲˈivə."
+]
+],
+"es-419": [
+[
+"Tuvo que estudiar mucho para ponerse al día con sus compañeros de clase.",
+"tˈuβo ke ˌestuðjˈaɾ mˈuʧo pˌaɾa ponˈeɾse al dˈia kon sus kˌompaɲˈeɾos ðe klˈase."
+],
+[
+"Tom probablemente tendrá éxito.",
+"tˈom pɾoβˈaβlemˈente tendɾˈa ˈeksito."
+],
+[
+"¿Qué tiene de malo estar desnudo en tu propia casa?",
+"kˈe tjˈene ðe mˈalo estˈaɾ ðesnˈuðo en tu pɾˈopja kˈasa?"
+],
+[
+"Tom siguió trabajando a pesar de estar muy cansado.",
+"tˈom siɣjˈo tɾˌaβaxˈando a pesˈaɾ ðe estˈaɾ mˈuj kansˈaðo."
+],
+[
+"Nunca me he enamorado de alguna chica.",
+"nˈunka me ˈe ˌenamoɾˈaðo ðe alɣˈuna ʧˈika."
+],
+[
+"Puesto que estás aquí, puedes ayudarme.",
+"pwˈesto ke estˈas akˈi, pwˈeðes ˌaʝuðˈaɾme."
+],
+[
+"Las nutrias marinas se alimentan de bivalvos.",
+"las nˈutɾias maɾˈinas se ˌalimˈɛntan de βiβˈalβos."
+],
+[
+"Era evidente que las dos mujeres se conocían muy bien.",
+"ˈeɾa ˌeβiðˈɛnte ke las ðˈos muxˈeɾes se kˌonosˈian mˈuj βjˈen."
+],
+[
+"Cuanto más bebía el público, más ruidoso se volvía.",
+"kwˌanto mˈas βeβˈia el pˈuβliko, mˈas rˌuiðˈoso se βolβˈia."
+],
+[
+"Él habría querido que no estuvieseis tristes.",
+"ˈel aβɾˈia keɾˈiðo ke nˈo ˌestuβjˈeseɪs tɾˈistes."
+],
+[
+"Sería estúpido escalar esa montaña en invierno.",
+"seɾˈia estˈupiðo ˌeskalˈaɾ ˈesa montˈaɲa en imbjˈeɾno."
+],
+[
+"Dio a luz un niño precioso.",
+"djˈo a lˈus ˈun nˈiɲo pɾesjˈoso."
+],
+[
+"Ella vivió allí durante unos cinco años.",
+"ˈejja βiβjˈo ajjˈi ðuɾˈante ˈunos sˈinko ˈaɲos."
+],
+[
+"¿Qué piensa usted que haría?",
+"kˈe pjˈɛnsa ustˈed ke aɾˈia?"
+],
+[
+"¿La dependencia del juego es una enfermedad?",
+"la ðˌependˈɛnsja ðel xwˈeɣo ˈes ˈuna ˌenfeɾmeðˈad?"
+],
+[
+"Ahora estoy de camino al trabajo.",
+"aˈoɾa estˈoɪ ðe kamˈino al tɾaβˈaxo."
+],
+[
+"Me encanta pintar con acuarela.",
+"me enkˈanta pintˈaɾ kon ˌakwaɾˈela."
+],
+[
+"Pobre como es, no lo puede comprar.",
+"pˈoβɾe kˌomo ˈes, nˈo lo pwˈeðe kompɾˈaɾ."
+],
+[
+"¿Le escribiste a Tomás?",
+"le ˌeskɾiβˈiste a tomˈas?"
+],
+[
+"Puedes usar nuestro auto si conduces con cuidado.",
+"pwˈeðes usˈaɾ nwˈestɾo ˈaʊto si kondˈuses kon kwiðˈaðo."
+],
+[
+"Tom se dio cuenta de que la ropa de Mary estaba sin lavar.",
+"tˈom se ðjˈo kwˈɛnta ðe ke la rˈopa ðe maɾˈi estˈaβa sin laβˈaɾ."
+],
+[
+"Quiero empezar a aprender español.",
+"kjˈeɾo ˌempesˈaɾ a ˌapɾendˈeɾ ˌespaɲˈol."
+],
+[
+"¿Compraste la medicina?",
+"kompɾˈaste la mˌeðisˈina?"
+],
+[
+"El lenguaje forma parte intrínseca del género humano. ¡Nacemos genéticamente preparados para hablar!",
+"el leŋɡwˈaxe fˈoɾma pˈaɾte intɾˈinseka ðel xˈeneɾo umˈano. nasˈemos xenˈetikamˈente pɾˌepaɾˈaðos pˌaɾa aβlˈaɾ!"
+],
+[
+"Muplis es una pequeña herramienta para buscar oraciones en lojban.",
+"mˈuplis ˈes ˈuna pekˈeɲa ˌeramjˈɛnta pˌaɾa βuskˈaɾ ˌoɾasjˈones en lˈoxβan."
+],
+[
+"¡Qué sorpresa tan agradable verte aquí!",
+"kˈe soɾpɾˈesa tan ˌaɣɾaðˈaβle βˈeɾte akˈi!"
+],
+[
+"Tenemos que empezar de nuevo.",
+"tenˈemos ke ˌempesˈaɾ ðe nwˈeβo."
+],
+[
+"No sé qué edad tengo.",
+"nˈo sˈe kˈe eðˈad tˈɛŋɡo."
+],
+[
+"Tom me pegó por accidente.",
+"tˈom me peɣˈo poɾ ˌaksiðˈɛnte."
+],
+[
+"Tom dijo que estaba ocupado.",
+"tˈom dˈixo ke estˈaβa ˌokupˈaðo."
+],
+[
+"Acabo de recibir tu carta.",
+"akˈaβo ðe rˌesiβˈiɾ tu kˈaɾta."
+],
+[
+"La cerveza es gratis los jueves por la noche.",
+"la seɾβˈesa ˈes ɣɾˈatis los xwˈeβes poɾ la nˈoʧe."
+],
+[
+"El profesor de física es un animal.",
+"el pɾˌofesˈoɾ ðe fˈisika ˈes ˈun ˌanimˈal."
+],
+[
+"Sus ojos estaban brillantes.",
+"sus ˈoxos estˈaβan bɾijjˈantes."
+],
+[
+"¿Tengo que responder en inglés o qué?",
+"tˈɛŋɡo ke rˌespondˈeɾ en iŋɡlˈes o kˈe?"
+],
+[
+"No sabíamos qué autobús coger.",
+"nˈo saβˈiamos kˈe ˌaʊtoβˈus koxˈeɾ."
+],
+[
+"La abuela dijo que todavía sabemos muy poco sobre la vida.",
+"la aβwˈela ðˈixo ke tˌoðaβˈia saβˈemos mˈuj pˈoko sˌoβɾe la βˈiða."
+],
+[
+"En la puerta de al lado vive un médico.",
+"en la pwˈeɾta ðe al lˈaðo βˈiβe ˈun mˈeðiko."
+],
+[
+"Ellas se encontraron en el aeropuerto.",
+"ˈejjas se ˌenkontɾˈaɾon en el ˌaeɾopwˈeɾto."
+],
+[
+"Me parece a mí que ella tiene una tendencia a exagerar.",
+"me paɾˈese a mˈi ke ˈejja tjˈene ˈuna tendˈɛnsja a ˌeksaxeɾˈaɾ."
+],
+[
+"La ciudad estaba alarmada por el terremoto.",
+"la sjuðˈad estˈaβa ˌalaɾmˈaða poɾ el tˌeremˈoto."
+],
+[
+"Ve y dale una paliza a ese matón.",
+"bˈe i ðˈale ˈuna palˈisa a ˈese matˈon."
+],
+[
+"Aspiré el polvo del suelo con una aspiradora.",
+"ˌaspiɾˈe el pˈolβo ðel swˈelo kon ˈuna ˌaspiɾaðˈoɾa."
+],
+[
+"Trato de dormir bien.",
+"tɾˈato ðe ðoɾmˈiɾ βjˈen."
+],
+[
+"Nadie conoce a Tom como yo.",
+"nˈaðje konˈose a tˈom kˌomo ʝˈo."
+],
+[
+"Ningún remedio puede curar esta enfermedad.",
+"niŋɡˈun remˈeðjo pwˈeðe kuɾˈaɾ ˈesta ˌenfeɾmeðˈad."
+],
+[
+"No valen medias tintas. Hay que hacer cambios radicales.",
+"nˈo βˈalen mˈeðjas tˈintas. ˈaɪ ke asˈeɾ kˈambjos rˌaðikˈales."
+],
+[
+"Tus bromas no son divertidas.",
+"tus βɾˈomas nˈo sˈon dˌiβeɾtˈiðas."
+],
+[
+"Este tiempo busca nuevas ideas.",
+"ˈeste tjˈempo βˈuska nwˈeβas iðˈeas."
+],
+[
+"Decidí seguir haciendo eso.",
+"dˌesiðˈi seɣˈiɾ asjˈɛndo ˈeso."
+],
+[
+"Ibarra sumó las dos cantidades en vez de restarlas.",
+"iβˈara sumˈo las ðˈos kˌantiðˈaðes en bˈes ðe restˈaɾlas."
+],
+[
+"¿Reconoces a alguien?",
+"rˌekonˈoses a ˈalɣjen?"
+],
+[
+"La carne queda menos seca cuando se cocina en el horno a bajas temperaturas.",
+"la kˈaɾne kˈeða mˈenos sˈeka kwˌando se kosˈina en el ˈoɾno a βˈaxas tˌempeɾatˈuɾas."
+],
+[
+"Hoy se corre la Gran Polla del Presidente.",
+"ˈoɪ se kˈore la ɣɾˈan pˈojja ðel pɾˌesiðˈɛnte."
+],
+[
+"Mis vacaciones de verano se están acabando.",
+"mis βˌakasjˈones ðe βeɾˈano se estˈan ˌakaβˈando."
+],
+[
+"Estoy seguro de que ganará.",
+"estˈoɪ seɣˈuɾo ðe ke ɣˌanaɾˈa."
+],
+[
+"Tom no sabía cómo reaccionar.",
+"tˈom nˈo saβˈia kˈomo rˌeaksjonˈaɾ."
+],
+[
+"Dijo que se levantaba todos los días a las seis.",
+"dˈixo ke se lˌeβantˈaβa tˈoðos los ðˈias a las sˈeɪs."
+],
+[
+"No puedo decírtelo todavía.",
+"nˈo pwˈeðo ðesˈiɾtelo tˌoðaβˈia."
+],
+[
+"Este es el peor de todos.",
+"ˈeste ˈes el peˈoɾ ðe tˈoðos."
+],
+[
+"No quería hacerle daño a Tom.",
+"nˈo keɾˈia asˈeɾle ðˈaɲo a tˈom."
+],
+[
+"El video juego emocionante tomó toda mi atención.",
+"el βiðˈeo xwˈeɣo ˌemosjonˈante tomˈo tˈoða mi ˌatensjˈon."
+],
+[
+"Me pregunto por qué Tom me dijo que yo necesitaba hacer eso.",
+"me pɾeɣˈunto poɾ kˈe tˈom me ðˈixo ke ʝˈo nˌesesitˈaβa asˈeɾ ˈeso."
+],
+[
+"La salud es más importante que el oro.",
+"la salˈud ˈes mˈas ˌimpoɾtˈante ke el ˈoɾo."
+],
+[
+"Ella escribió un libro sobre las aves.",
+"ˈejja ˌeskɾiβjˈo ˈun lˈiβɾo sˌoβɾe las ˈaβes."
+],
+[
+"Pensé que éramos amigos.",
+"pensˈe ke ˈeɾamos amˈiɣos."
+],
+[
+"Ella prefiere los cereales integrales.",
+"ˈejja pɾefjˈeɾe los sˌeɾeˈales ˌinteɣɾˈales."
+],
+[
+"¿Cómo aprendiste a dibujar tan bien?",
+"kˈomo ˌapɾendˈiste a ðˌiβuxˈaɾ tan bjˈen?"
+],
+[
+"Quiero que estés aquí.",
+"kjˈeɾo ke estˈes akˈi."
+],
+[
+"La temperatura es muy superior a la de ayer.",
+"la tˌempeɾatˈuɾa ˈes mˈuj sˌupeɾjˈoɾ a la ðe aʝˈeɾ."
+],
+[
+"Es mi vecino de al lado.",
+"ˈes mi βesˈino ðe al lˈaðo."
+],
+[
+"El juez no está nada convencido.",
+"el xwˈes nˈo estˈa nˈaða kˌombensˈiðo."
+],
+[
+"¿Lo has hecho tú sola?",
+"lo ˈas ˈeʧo tˈu sˈola?"
+],
+[
+"¿Acaso solo quieres jugar conmigo?",
+"akˈaso sˈolo kjˈeɾes xuɣˈaɾ konmˈiɣo?"
+],
+[
+"El ruibarbo es una verdura.",
+"el rˌuiβˈaɾβo ˈes ˈuna βeɾðˈuɾa."
+],
+[
+"¿Cuándo irás a Japón?",
+"kwˈando iɾˈas a xapˈon?"
+],
+[
+"Todos los vehículos policiales fueron equipados con vidrios blindados.",
+"tˈoðos los βeˈikulos pˌolisjˈales fwˈeɾon ˌekipˈaðos kon bˈiðɾios βlindˈaðos."
+],
+[
+"Ojalá pudiera ir hoy contigo.",
+"ˌoxalˈa puðjˈeɾa ˈiɾ ˈoɪ kontˈiɣo."
+],
+[
+"Ingles no es un idioma, son unas partes del cuerpo.",
+"ˈiŋɡles nˈo ˈes ˈun iðjˈoma, sˈon ˈunas pˈaɾtes ðel kwˈeɾpo."
+],
+[
+"No quiero arruinar todo.",
+"nˈo kjˈeɾo ˌaruinˈaɾ tˈoðo."
+],
+[
+"Me gusta sentarme por el lado de la ventana.",
+"me ɣˈusta sentˈaɾme poɾ el lˈaðo ðe la βentˈana."
+],
+[
+"Necesitan resolver este asunto.",
+"nˌesesˈitan rˌesolβˈeɾ ˈeste asˈunto."
+],
+[
+"Hay muchos portugueses que hablan español, mejor o peor, sin que incluso hayan necesitado estudiarlo.",
+"ˈaɪ mˈuʧos pˌoɾtuɣˈeses ke ˈaβlan ˌespaɲˈol, mexˈoɾ o peˈoɾ, sin ke inklˈuso ˈaʝan nˌesesitˈaðo ˌestuðjˈaɾlo."
+],
+[
+"A Tom le gustará eso que habéis hecho.",
+"a tˈom le ɣˌustaɾˈa ˈeso ke aβˈeis ˈeʧo."
+],
+[
+"Si no fuera por algunos que los crían, hace tiempo que habrían desaparecido los burros en España.",
+"si nˈo fwˈeɾa poɾ alɣˈunos ke los kɾˈian, ˈase tjˈempo ke aβɾˈian dˌesapˌaɾesˈiðo los βˈuros en espˈaɲa."
+],
+[
+"Me encanta el olor a ajo.",
+"me enkˈanta el olˈoɾ a ˈaxo."
+],
+[
+"\"¿Qué has hecho con los cuatro yogures?\" \"Uno me lo he comido y los otros tres los he guardado en el frigo.\"",
+"kˈe ˈas ˈeʧo kon los kwˈatɾo ʝoɣˈuɾes? ˈuno me lo ˈe komˈiðo i los ˈotɾos tɾˈes los ˈe ɣwaɾðˈaðo en el fɾˈiɣo."
+],
+[
+"Cierra los ojos y cuenta hasta diez.",
+"sjˈera los ˈoxos i kwˈɛnta ˌasta ðjˈes."
+],
+[
+"Lo haré yo solo la próxima vez.",
+"lo aɾˈe ʝˈo sˈolo la pɾˈoksima βˈes."
+],
+[
+"Esta es una historia tan interesante que nunca la olvidaré.",
+"ˈesta ˈes ˈuna istˈoɾja tan ˌinteɾesˈante ke nˈunka la ˌolβiðaɾˈe."
+],
+[
+"Es bueno ver que algunas cosas nunca cambian.",
+"ˈes βwˈeno βˈeɾ ke alɣˈunas kˈosas nˈunka kˈambjan."
+],
+[
+"Acuérdate de sacar los calamares del congelador.",
+"akwˈeɾðate ðe sakˈaɾ los kˌalamˈaɾes ðel kˌoŋxelaðˈoɾ."
+],
+[
+"Haré el esfuerzo de levantarme temprano cada mañana.",
+"aɾˈe el esfwˈeɾso ðe lˌeβantˈaɾme tempɾˈano kˈaða maɲˈana."
+],
+[
+"Me gusta jugar con las palabras.",
+"me ɣˈusta xuɣˈaɾ kon las palˈaβɾas."
+],
+[
+"Tom encontró una billetera en el camión abandonado.",
+"tˈom ˌenkontɾˈo ˈuna βˌijjetˈeɾa en el kamjˈon ˌaβandonˈaðo."
+],
+[
+"¿Me avisás cuando él llegue?",
+"me ˌaβisˈas kwˌando ˈel ʝˈeɣe?"
+],
+[
+"Él es capaz de hablar japonés.",
+"ˈel ˈes kapˈas ðe aβlˈaɾ xˌaponˈes."
+],
+[
+"Le dirás dónde te duele.",
+"le ðiɾˈas ðˈonde te ðwˈele."
+],
+[
+"Tom experimentó una fuerte presión de sus compañeros para meterse en drogas cuando era un adolescente.",
+"tˈom ˌekspeɾˌimentˈo ˈuna fwˈeɾte pɾesjˈon de sus kˌompaɲˈeɾos pˌaɾa metˈeɾse en dɾˈoɣas kwˌando ˈeɾa ˈun ˌaðolessˈɛnte."
+],
+[
+"Nada de lo que vemos o pensamos es real.",
+"nˈaða ðe lo ke βˈemos o pensˈamos ˈes reˈal."
+]
+]
+}
+}
