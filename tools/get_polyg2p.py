@@ -66,6 +66,7 @@ def download(out: Path) -> Path | None:
 
 
 def build(out: Path) -> Path:
+    out = out.resolve()  # maturin runs in the bindings folder: a relative --out would land there
     with tempfile.TemporaryDirectory(prefix='polyg2p-') as tmp:
         src = Path(tmp) / 'polyg2p'
         run('git', 'init', '-q', src)
