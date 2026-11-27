@@ -1,7 +1,7 @@
 {
   "manifest_version": 1,
   "id": "bluetts",
-  "version": "26.11.1",
+  "version": "26.11.2",
   "display_name": "BlueTTS (offline, voice clone, Hebrew + 6 languages)",
   "summary": "BlueV3 by Maxim Melichov: speaks Hebrew, English, German, Spanish, Italian, Russian and Yiddish at 44.1 kHz, in 15 stock voices or in the speaker's own voice, cloned from about 10 seconds of the video. Runs on the CPU, about 3 to 5 times faster than real time. The 428 MB model downloads on the first line; Hebrew needs 1,231 MB more (or 312 MB compact), Yiddish 307 MB, cloning 136 MB.",
   "author": "Subtitld",
