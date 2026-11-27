@@ -1,0 +1,8 @@
+# Pure-Python packages the Haiku zip carries in bin/lib (tools/build_haiku.py),
+# at the versions constraints.txt pins. numpy, ONNX Runtime and polyg2p have
+# native code and come from the Haiku packages manifest.json lists instead.
+# renikud-plus imports huggingface_hub only in its own downloader, which the
+# add-on never calls; num2words' docopt only in its command-line script.
+renikud-plus==0.5.0
+hebrew-num2words==0.1.0
+num2words==0.5.14
